@@ -1,0 +1,7 @@
+loading MNIST train datas...
+learning_rate = 1.0
+batch = 1000
+epoch 001 --- loss=0.0454, acc=67.87%
+epoch 002 --- loss=0.0225, acc=84.53%
+epoch 003 --- loss=0.0133, acc=91.20%
+->best_param.pkl

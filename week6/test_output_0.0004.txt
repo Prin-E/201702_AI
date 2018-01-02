@@ -1,0 +1,107 @@
+salmon (body:54.3, tail:12.2) : correct
+salmon (body:69.7, tail:10.4) : correct
+salmon (body:65.2, tail:14.8) : correct
+salmon (body:81.0, tail:19.9) : correct
+salmon (body:64.1, tail:22.9) : correct
+salmon (body:64.7, tail:17.3) : correct
+salmon (body:79.3, tail:7.2) : wrong, cost:8.27
+salmon (body:59.8, tail:13.0) : correct
+salmon (body:72.2, tail:14.0) : correct
+salmon (body:76.7, tail:6.8) : wrong, cost:6.20
+salmon (body:47.5, tail:9.2) : correct
+salmon (body:73.5, tail:18.5) : correct
+salmon (body:67.3, tail:14.3) : correct
+salmon (body:71.1, tail:12.0) : correct
+salmon (body:65.8, tail:14.9) : correct
+salmon (body:57.8, tail:6.0) : correct
+salmon (body:86.3, tail:19.9) : wrong, cost:2.05
+salmon (body:74.6, tail:17.8) : correct
+salmon (body:83.1, tail:12.8) : wrong, cost:6.21
+salmon (body:67.0, tail:17.5) : correct
+salmon (body:61.8, tail:21.6) : correct
+salmon (body:75.1, tail:11.7) : correct
+salmon (body:71.9, tail:13.0) : correct
+salmon (body:67.3, tail:14.9) : correct
+salmon (body:76.8, tail:18.2) : correct
+salmon (body:62.4, tail:18.6) : correct
+salmon (body:67.0, tail:6.6) : correct
+salmon (body:74.3, tail:7.2) : wrong, cost:3.51
+salmon (body:66.3, tail:20.2) : correct
+salmon (body:82.2, tail:13.8) : wrong, cost:4.33
+salmon (body:65.8, tail:14.4) : correct
+salmon (body:51.6, tail:25.3) : correct
+salmon (body:62.2, tail:22.2) : correct
+salmon (body:68.9, tail:21.1) : correct
+salmon (body:89.2, tail:18.7) : wrong, cost:6.03
+salmon (body:92.2, tail:11.6) : wrong, cost:16.09
+salmon (body:77.3, tail:10.7) : wrong, cost:2.81
+salmon (body:57.9, tail:12.6) : correct
+salmon (body:60.8, tail:10.8) : correct
+salmon (body:74.4, tail:12.2) : correct
+salmon (body:64.3, tail:13.1) : correct
+salmon (body:60.7, tail:23.8) : correct
+salmon (body:82.1, tail:21.4) : correct
+salmon (body:60.3, tail:11.8) : correct
+salmon (body:66.0, tail:13.6) : correct
+salmon (body:62.7, tail:11.4) : correct
+salmon (body:78.4, tail:16.3) : correct
+salmon (body:77.2, tail:19.6) : correct
+salmon (body:59.8, tail:7.9) : correct
+salmon (body:83.0, tail:16.3) : wrong, cost:2.56
+--salmon-- correct:40, wrong:10, total:50, cost:58.07
+
+seabass (body:115.0, tail:2.4) : correct
+seabass (body:89.5, tail:6.6) : correct
+seabass (body:98.6, tail:8.8) : correct
+seabass (body:109.9, tail:-1.1) : correct
+seabass (body:83.0, tail:6.1) : correct
+seabass (body:106.6, tail:11.7) : correct
+seabass (body:92.6, tail:9.6) : correct
+seabass (body:97.5, tail:6.3) : correct
+seabass (body:98.3, tail:6.4) : correct
+seabass (body:119.5, tail:13.6) : correct
+seabass (body:92.7, tail:10.8) : correct
+seabass (body:119.1, tail:7.5) : correct
+seabass (body:82.8, tail:9.3) : correct
+seabass (body:109.6, tail:2.4) : correct
+seabass (body:92.3, tail:5.1) : correct
+seabass (body:95.2, tail:2.0) : correct
+seabass (body:79.9, tail:18.5) : wrong, cost:2.63
+seabass (body:85.7, tail:5.0) : correct
+seabass (body:101.6, tail:3.4) : correct
+seabass (body:101.4, tail:12.1) : correct
+seabass (body:102.0, tail:4.8) : correct
+seabass (body:83.1, tail:14.0) : correct
+seabass (body:95.1, tail:12.7) : correct
+seabass (body:101.6, tail:5.8) : correct
+seabass (body:93.3, tail:3.5) : correct
+seabass (body:92.0, tail:3.4) : correct
+seabass (body:107.3, tail:10.5) : correct
+seabass (body:109.1, tail:11.9) : correct
+seabass (body:88.8, tail:4.5) : correct
+seabass (body:85.7, tail:12.9) : correct
+seabass (body:99.5, tail:8.5) : correct
+seabass (body:106.2, tail:3.5) : correct
+seabass (body:90.8, tail:13.2) : correct
+seabass (body:74.7, tail:3.9) : correct
+seabass (body:108.9, tail:7.4) : correct
+seabass (body:64.6, tail:3.9) : wrong, cost:2.38
+seabass (body:113.2, tail:9.9) : correct
+seabass (body:95.8, tail:5.8) : correct
+seabass (body:88.3, tail:8.4) : correct
+seabass (body:78.3, tail:16.7) : wrong, cost:2.32
+seabass (body:100.8, tail:7.2) : correct
+seabass (body:83.0, tail:4.1) : correct
+seabass (body:120.5, tail:8.3) : correct
+seabass (body:115.8, tail:1.7) : correct
+seabass (body:84.7, tail:10.2) : correct
+seabass (body:95.3, tail:23.7) : correct
+seabass (body:90.9, tail:11.4) : correct
+seabass (body:89.6, tail:8.5) : correct
+seabass (body:85.6, tail:13.3) : correct
+seabass (body:92.2, tail:9.8) : correct
+--seabass-- correct:47, wrong:3, total:50, cost:7.33
+
+====================================================================
+correct:87, wrong:13, total:100
+test case - error: 13.00%, cost: 65.40, equation: 0.953x-1.015y-59.959=0

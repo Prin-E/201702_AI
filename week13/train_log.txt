@@ -1,0 +1,6 @@
+loading MNIST train datas...
+learning_rate = 1.0
+batch = 1000
+epoch 001 --- loss=0.0403, acc=72.28%
+epoch 002 --- loss=0.0122, acc=92.09%
+->best_param.h5

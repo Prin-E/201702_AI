@@ -1,0 +1,5 @@
+maximum accepted error : 0.10
+0 xor 0 = 0 (test : 0.008403, correct)
+0 xor 1 = 1 (test : 0.983004, correct)
+1 xor 0 = 1 (test : 0.982678, correct)
+1 xor 1 = 0 (test : 0.033712, correct)

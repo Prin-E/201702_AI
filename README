@@ -1,0 +1,20 @@
+This is my homeworks of Artificial Intelligence in computer science.
+All source codes are written using Python 2.7.x and tested in Windows 10 and macOS 10.13.
+
+Required library : numpy, tkinter, matplotlib, keras(tested with theano backend), h5py, pydot, graphviz
+
+Contents:
+week1 - linear classifier
+week2 - A*
+week3 - simulated annealing
+week4 - genetic algorithm
+week5 (cancelled)
+week6 - perceptron
+week7 (cancelled)
+week8 - single layer perceptron
+week9 - multi layer perceptron
+week10 - deep neural network
+week12 - convolutional neural network
+week13 - convolutional neural network + feature map
+week14 (not reported)
+finalterm - hangul form classifier (my application)

@@ -1,0 +1,1005 @@
+initial equation: 1.848x-0.832y-59.947=0
+learning rate: 0.0004
+(T=  1) equation: 1.055x-0.999y-59.958=0, error: 23.00%
+(T=  2) equation: 0.953x-1.015y-59.959=0, error: 12.00%
+(T=  3) equation: 0.949x-1.018y-59.958=0, error: 12.00%
+(T=  4) equation: 0.945x-1.020y-59.958=0, error: 12.00%
+(T=  5) equation: 0.941x-1.023y-59.957=0, error: 12.00%
+(T=  6) equation: 0.969x-1.021y-59.957=0, error: 15.00%
+(T=  7) equation: 0.965x-1.021y-59.956=0, error: 14.00%
+(T=  8) equation: 0.961x-1.022y-59.956=0, error: 14.00%
+(T=  9) equation: 0.959x-1.022y-59.955=0, error: 14.00%
+(T= 10) equation: 0.957x-1.022y-59.955=0, error: 13.00%
+(T= 11) equation: 0.954x-1.022y-59.955=0, error: 12.00%
+(T= 12) equation: 0.951x-1.025y-59.954=0, error: 12.00%
+(T= 13) equation: 0.947x-1.027y-59.954=0, error: 12.00%
+(T= 14) equation: 0.943x-1.030y-59.953=0, error: 12.00%
+(T= 15) equation: 0.971x-1.028y-59.953=0, error: 15.00%
+(T= 16) equation: 0.967x-1.029y-59.952=0, error: 14.00%
+(T= 17) equation: 0.963x-1.029y-59.952=0, error: 14.00%
+(T= 18) equation: 0.961x-1.029y-59.951=0, error: 14.00%
+(T= 19) equation: 0.958x-1.030y-59.951=0, error: 14.00%
+(T= 20) equation: 0.956x-1.030y-59.951=0, error: 12.00%
+(T= 21) equation: 0.954x-1.030y-59.950=0, error: 12.00%
+(T= 22) equation: 0.950x-1.033y-59.950=0, error: 12.00%
+(T= 23) equation: 0.946x-1.035y-59.949=0, error: 12.00%
+(T= 24) equation: 0.943x-1.037y-59.949=0, error: 12.00%
+(T= 25) equation: 0.971x-1.036y-59.948=0, error: 15.00%
+(T= 26) equation: 0.966x-1.036y-59.948=0, error: 14.00%
+(T= 27) equation: 0.962x-1.037y-59.947=0, error: 14.00%
+(T= 28) equation: 0.960x-1.037y-59.947=0, error: 14.00%
+(T= 29) equation: 0.958x-1.037y-59.947=0, error: 12.00%
+(T= 30) equation: 0.956x-1.037y-59.946=0, error: 12.00%
+(T= 31) equation: 0.953x-1.038y-59.946=0, error: 12.00%
+(T= 32) equation: 0.950x-1.040y-59.945=0, error: 12.00%
+(T= 33) equation: 0.946x-1.043y-59.945=0, error: 12.00%
+(T= 34) equation: 0.974x-1.041y-59.944=0, error: 15.00%
+(T= 35) equation: 0.970x-1.041y-59.944=0, error: 14.00%
+(T= 36) equation: 0.966x-1.042y-59.943=0, error: 14.00%
+(T= 37) equation: 0.963x-1.042y-59.943=0, error: 14.00%
+(T= 38) equation: 0.961x-1.042y-59.943=0, error: 14.00%
+(T= 39) equation: 0.959x-1.042y-59.942=0, error: 12.00%
+(T= 40) equation: 0.957x-1.043y-59.942=0, error: 12.00%
+(T= 41) equation: 0.955x-1.043y-59.941=0, error: 12.00%
+(T= 42) equation: 0.951x-1.045y-59.941=0, error: 12.00%
+(T= 43) equation: 0.947x-1.048y-59.941=0, error: 12.00%
+(T= 44) equation: 0.943x-1.050y-59.940=0, error: 12.00%
+(T= 45) equation: 0.971x-1.049y-59.939=0, error: 14.00%
+(T= 46) equation: 0.967x-1.049y-59.939=0, error: 14.00%
+(T= 47) equation: 0.963x-1.050y-59.939=0, error: 14.00%
+(T= 48) equation: 0.961x-1.050y-59.938=0, error: 12.00%
+(T= 49) equation: 0.959x-1.050y-59.938=0, error: 12.00%
+(T= 50) equation: 0.956x-1.050y-59.937=0, error: 12.00%
+(T= 51) equation: 0.956x-1.049y-59.937=0, error: 12.00%
+(T= 52) equation: 0.955x-1.049y-59.937=0, error: 12.00%
+(T= 53) equation: 0.952x-1.051y-59.936=0, error: 12.00%
+(T= 54) equation: 0.948x-1.054y-59.936=0, error: 12.00%
+(T= 55) equation: 0.944x-1.056y-59.935=0, error: 12.00%
+(T= 56) equation: 0.972x-1.055y-59.935=0, error: 14.00%
+(T= 57) equation: 0.968x-1.055y-59.934=0, error: 14.00%
+(T= 58) equation: 0.964x-1.055y-59.934=0, error: 14.00%
+(T= 59) equation: 0.962x-1.056y-59.933=0, error: 12.00%
+(T= 60) equation: 0.959x-1.056y-59.933=0, error: 12.00%
+(T= 61) equation: 0.957x-1.056y-59.933=0, error: 12.00%
+(T= 62) equation: 0.957x-1.055y-59.932=0, error: 12.00%
+(T= 63) equation: 0.956x-1.054y-59.932=0, error: 12.00%
+(T= 64) equation: 0.956x-1.053y-59.931=0, error: 12.00%
+(T= 65) equation: 0.952x-1.056y-59.931=0, error: 12.00%
+(T= 66) equation: 0.948x-1.058y-59.931=0, error: 12.00%
+(T= 67) equation: 0.945x-1.061y-59.930=0, error: 12.00%
+(T= 68) equation: 0.972x-1.059y-59.929=0, error: 14.00%
+(T= 69) equation: 0.968x-1.060y-59.929=0, error: 14.00%
+(T= 70) equation: 0.964x-1.060y-59.929=0, error: 14.00%
+(T= 71) equation: 0.962x-1.060y-59.928=0, error: 12.00%
+(T= 72) equation: 0.960x-1.061y-59.928=0, error: 12.00%
+(T= 73) equation: 0.957x-1.061y-59.927=0, error: 12.00%
+(T= 74) equation: 0.957x-1.060y-59.927=0, error: 12.00%
+(T= 75) equation: 0.956x-1.059y-59.927=0, error: 12.00%
+(T= 76) equation: 0.956x-1.058y-59.926=0, error: 12.00%
+(T= 77) equation: 0.952x-1.061y-59.926=0, error: 12.00%
+(T= 78) equation: 0.949x-1.063y-59.925=0, error: 12.00%
+(T= 79) equation: 0.945x-1.066y-59.925=0, error: 12.00%
+(T= 80) equation: 0.973x-1.064y-59.924=0, error: 14.00%
+(T= 81) equation: 0.969x-1.065y-59.924=0, error: 14.00%
+(T= 82) equation: 0.964x-1.065y-59.923=0, error: 13.00%
+(T= 83) equation: 0.962x-1.065y-59.923=0, error: 12.00%
+(T= 84) equation: 0.960x-1.065y-59.923=0, error: 12.00%
+(T= 85) equation: 0.958x-1.066y-59.922=0, error: 12.00%
+(T= 86) equation: 0.957x-1.065y-59.922=0, error: 12.00%
+(T= 87) equation: 0.957x-1.064y-59.921=0, error: 12.00%
+(T= 88) equation: 0.956x-1.063y-59.921=0, error: 12.00%
+(T= 89) equation: 0.953x-1.066y-59.921=0, error: 12.00%
+(T= 90) equation: 0.949x-1.068y-59.920=0, error: 12.00%
+(T= 91) equation: 0.977x-1.067y-59.919=0, error: 15.00%
+(T= 92) equation: 0.973x-1.067y-59.919=0, error: 14.00%
+(T= 93) equation: 0.968x-1.067y-59.919=0, error: 14.00%
+(T= 94) equation: 0.966x-1.068y-59.918=0, error: 14.00%
+(T= 95) equation: 0.964x-1.068y-59.918=0, error: 12.00%
+(T= 96) equation: 0.962x-1.068y-59.917=0, error: 12.00%
+(T= 97) equation: 0.960x-1.068y-59.917=0, error: 12.00%
+(T= 98) equation: 0.957x-1.068y-59.917=0, error: 12.00%
+(T= 99) equation: 0.957x-1.068y-59.916=0, error: 12.00%
+(T=100) equation: 0.956x-1.067y-59.916=0, error: 12.00%
+(T=101) equation: 0.953x-1.069y-59.915=0, error: 12.00%
+(T=102) equation: 0.949x-1.072y-59.915=0, error: 12.00%
+(T=103) equation: 0.977x-1.070y-59.914=0, error: 15.00%
+(T=104) equation: 0.973x-1.071y-59.914=0, error: 14.00%
+(T=105) equation: 0.969x-1.071y-59.913=0, error: 14.00%
+(T=106) equation: 0.966x-1.071y-59.913=0, error: 13.00%
+(T=107) equation: 0.964x-1.071y-59.913=0, error: 12.00%
+(T=108) equation: 0.962x-1.072y-59.912=0, error: 12.00%
+(T=109) equation: 0.960x-1.072y-59.912=0, error: 12.00%
+(T=110) equation: 0.958x-1.072y-59.911=0, error: 12.00%
+(T=111) equation: 0.957x-1.071y-59.911=0, error: 12.00%
+(T=112) equation: 0.957x-1.070y-59.911=0, error: 12.00%
+(T=113) equation: 0.953x-1.073y-59.910=0, error: 12.00%
+(T=114) equation: 0.949x-1.075y-59.910=0, error: 12.00%
+(T=115) equation: 0.977x-1.074y-59.909=0, error: 15.00%
+(T=116) equation: 0.973x-1.074y-59.909=0, error: 14.00%
+(T=117) equation: 0.969x-1.075y-59.908=0, error: 14.00%
+(T=118) equation: 0.966x-1.075y-59.908=0, error: 13.00%
+(T=119) equation: 0.964x-1.075y-59.907=0, error: 12.00%
+(T=120) equation: 0.962x-1.075y-59.907=0, error: 12.00%
+(T=121) equation: 0.960x-1.075y-59.907=0, error: 12.00%
+(T=122) equation: 0.959x-1.075y-59.906=0, error: 12.00%
+(T=123) equation: 0.959x-1.074y-59.906=0, error: 12.00%
+(T=124) equation: 0.958x-1.073y-59.905=0, error: 12.00%
+(T=125) equation: 0.958x-1.072y-59.905=0, error: 12.00%
+(T=126) equation: 0.957x-1.071y-59.905=0, error: 12.00%
+(T=127) equation: 0.957x-1.070y-59.904=0, error: 12.00%
+(T=128) equation: 0.956x-1.069y-59.904=0, error: 12.00%
+(T=129) equation: 0.953x-1.072y-59.903=0, error: 12.00%
+(T=130) equation: 0.949x-1.074y-59.903=0, error: 12.00%
+(T=131) equation: 0.977x-1.073y-59.902=0, error: 15.00%
+(T=132) equation: 0.973x-1.073y-59.902=0, error: 14.00%
+(T=133) equation: 0.969x-1.074y-59.901=0, error: 14.00%
+(T=134) equation: 0.966x-1.074y-59.901=0, error: 13.00%
+(T=135) equation: 0.964x-1.074y-59.901=0, error: 12.00%
+(T=136) equation: 0.962x-1.074y-59.900=0, error: 12.00%
+(T=137) equation: 0.960x-1.075y-59.900=0, error: 12.00%
+(T=138) equation: 0.959x-1.074y-59.899=0, error: 12.00%
+(T=139) equation: 0.959x-1.073y-59.899=0, error: 12.00%
+(T=140) equation: 0.958x-1.072y-59.899=0, error: 12.00%
+(T=141) equation: 0.958x-1.071y-59.898=0, error: 12.00%
+(T=142) equation: 0.957x-1.070y-59.898=0, error: 12.00%
+(T=143) equation: 0.957x-1.070y-59.897=0, error: 12.00%
+(T=144) equation: 0.956x-1.069y-59.897=0, error: 12.00%
+(T=145) equation: 0.956x-1.068y-59.897=0, error: 12.00%
+(T=146) equation: 0.952x-1.070y-59.896=0, error: 12.00%
+(T=147) equation: 0.948x-1.073y-59.896=0, error: 12.00%
+(T=148) equation: 0.976x-1.071y-59.895=0, error: 15.00%
+(T=149) equation: 0.972x-1.072y-59.895=0, error: 14.00%
+(T=150) equation: 0.968x-1.072y-59.894=0, error: 14.00%
+(T=151) equation: 0.966x-1.072y-59.894=0, error: 13.00%
+(T=152) equation: 0.964x-1.073y-59.893=0, error: 12.00%
+(T=153) equation: 0.961x-1.073y-59.893=0, error: 12.00%
+(T=154) equation: 0.959x-1.073y-59.893=0, error: 12.00%
+(T=155) equation: 0.959x-1.072y-59.892=0, error: 12.00%
+(T=156) equation: 0.958x-1.071y-59.892=0, error: 12.00%
+(T=157) equation: 0.958x-1.070y-59.891=0, error: 12.00%
+(T=158) equation: 0.957x-1.070y-59.891=0, error: 12.00%
+(T=159) equation: 0.957x-1.069y-59.891=0, error: 12.00%
+(T=160) equation: 0.956x-1.068y-59.890=0, error: 12.00%
+(T=161) equation: 0.956x-1.067y-59.890=0, error: 12.00%
+(T=162) equation: 0.952x-1.070y-59.889=0, error: 12.00%
+(T=163) equation: 0.948x-1.072y-59.889=0, error: 12.00%
+(T=164) equation: 0.976x-1.071y-59.888=0, error: 15.00%
+(T=165) equation: 0.972x-1.071y-59.888=0, error: 14.00%
+(T=166) equation: 0.968x-1.071y-59.887=0, error: 14.00%
+(T=167) equation: 0.966x-1.072y-59.887=0, error: 13.00%
+(T=168) equation: 0.964x-1.072y-59.887=0, error: 12.00%
+(T=169) equation: 0.961x-1.072y-59.886=0, error: 12.00%
+(T=170) equation: 0.959x-1.072y-59.886=0, error: 12.00%
+(T=171) equation: 0.959x-1.071y-59.885=0, error: 12.00%
+(T=172) equation: 0.958x-1.070y-59.885=0, error: 12.00%
+(T=173) equation: 0.958x-1.070y-59.885=0, error: 12.00%
+(T=174) equation: 0.957x-1.069y-59.884=0, error: 12.00%
+(T=175) equation: 0.957x-1.068y-59.884=0, error: 12.00%
+(T=176) equation: 0.956x-1.067y-59.883=0, error: 12.00%
+(T=177) equation: 0.956x-1.066y-59.883=0, error: 12.00%
+(T=178) equation: 0.952x-1.069y-59.883=0, error: 12.00%
+(T=179) equation: 0.948x-1.071y-59.882=0, error: 12.00%
+(T=180) equation: 0.976x-1.070y-59.881=0, error: 15.00%
+(T=181) equation: 0.972x-1.070y-59.881=0, error: 14.00%
+(T=182) equation: 0.968x-1.071y-59.881=0, error: 14.00%
+(T=183) equation: 0.966x-1.071y-59.880=0, error: 13.00%
+(T=184) equation: 0.963x-1.071y-59.880=0, error: 12.00%
+(T=185) equation: 0.961x-1.071y-59.879=0, error: 12.00%
+(T=186) equation: 0.959x-1.071y-59.879=0, error: 12.00%
+(T=187) equation: 0.959x-1.070y-59.879=0, error: 12.00%
+(T=188) equation: 0.958x-1.070y-59.878=0, error: 12.00%
+(T=189) equation: 0.958x-1.069y-59.878=0, error: 12.00%
+(T=190) equation: 0.957x-1.068y-59.877=0, error: 12.00%
+(T=191) equation: 0.957x-1.067y-59.877=0, error: 12.00%
+(T=192) equation: 0.956x-1.066y-59.877=0, error: 12.00%
+(T=193) equation: 0.956x-1.065y-59.876=0, error: 12.00%
+(T=194) equation: 0.952x-1.068y-59.876=0, error: 12.00%
+(T=195) equation: 0.948x-1.070y-59.875=0, error: 12.00%
+(T=196) equation: 0.976x-1.069y-59.875=0, error: 15.00%
+(T=197) equation: 0.972x-1.069y-59.874=0, error: 14.00%
+(T=198) equation: 0.968x-1.070y-59.874=0, error: 14.00%
+(T=199) equation: 0.966x-1.070y-59.873=0, error: 13.00%
+(T=200) equation: 0.963x-1.070y-59.873=0, error: 12.00%
+(T=201) equation: 0.961x-1.070y-59.873=0, error: 12.00%
+(T=202) equation: 0.959x-1.071y-59.872=0, error: 12.00%
+(T=203) equation: 0.958x-1.070y-59.872=0, error: 12.00%
+(T=204) equation: 0.958x-1.069y-59.871=0, error: 12.00%
+(T=205) equation: 0.958x-1.068y-59.871=0, error: 12.00%
+(T=206) equation: 0.957x-1.067y-59.871=0, error: 12.00%
+(T=207) equation: 0.957x-1.066y-59.870=0, error: 12.00%
+(T=208) equation: 0.956x-1.065y-59.870=0, error: 12.00%
+(T=209) equation: 0.956x-1.065y-59.869=0, error: 12.00%
+(T=210) equation: 0.952x-1.067y-59.869=0, error: 12.00%
+(T=211) equation: 0.948x-1.070y-59.869=0, error: 12.00%
+(T=212) equation: 0.976x-1.068y-59.868=0, error: 15.00%
+(T=213) equation: 0.972x-1.069y-59.867=0, error: 14.00%
+(T=214) equation: 0.968x-1.069y-59.867=0, error: 14.00%
+(T=215) equation: 0.965x-1.069y-59.867=0, error: 14.00%
+(T=216) equation: 0.963x-1.069y-59.866=0, error: 12.00%
+(T=217) equation: 0.961x-1.070y-59.866=0, error: 12.00%
+(T=218) equation: 0.959x-1.070y-59.865=0, error: 12.00%
+(T=219) equation: 0.957x-1.070y-59.865=0, error: 12.00%
+(T=220) equation: 0.956x-1.069y-59.865=0, error: 12.00%
+(T=221) equation: 0.956x-1.068y-59.864=0, error: 12.00%
+(T=222) equation: 0.952x-1.071y-59.864=0, error: 12.00%
+(T=223) equation: 0.948x-1.073y-59.863=0, error: 12.00%
+(T=224) equation: 0.976x-1.072y-59.863=0, error: 15.00%
+(T=225) equation: 0.972x-1.072y-59.862=0, error: 14.00%
+(T=226) equation: 0.968x-1.073y-59.862=0, error: 14.00%
+(T=227) equation: 0.966x-1.073y-59.861=0, error: 13.00%
+(T=228) equation: 0.963x-1.073y-59.861=0, error: 12.00%
+(T=229) equation: 0.961x-1.073y-59.861=0, error: 12.00%
+(T=230) equation: 0.959x-1.073y-59.860=0, error: 12.00%
+(T=231) equation: 0.959x-1.072y-59.860=0, error: 12.00%
+(T=232) equation: 0.958x-1.072y-59.859=0, error: 12.00%
+(T=233) equation: 0.958x-1.071y-59.859=0, error: 12.00%
+(T=234) equation: 0.957x-1.070y-59.859=0, error: 12.00%
+(T=235) equation: 0.957x-1.069y-59.858=0, error: 12.00%
+(T=236) equation: 0.956x-1.068y-59.858=0, error: 12.00%
+(T=237) equation: 0.956x-1.067y-59.857=0, error: 12.00%
+(T=238) equation: 0.952x-1.070y-59.857=0, error: 12.00%
+(T=239) equation: 0.948x-1.072y-59.857=0, error: 12.00%
+(T=240) equation: 0.976x-1.071y-59.856=0, error: 15.00%
+(T=241) equation: 0.972x-1.071y-59.855=0, error: 14.00%
+(T=242) equation: 0.968x-1.072y-59.855=0, error: 14.00%
+(T=243) equation: 0.966x-1.072y-59.855=0, error: 13.00%
+(T=244) equation: 0.963x-1.072y-59.854=0, error: 12.00%
+(T=245) equation: 0.961x-1.072y-59.854=0, error: 12.00%
+(T=246) equation: 0.959x-1.073y-59.853=0, error: 12.00%
+(T=247) equation: 0.958x-1.072y-59.853=0, error: 12.00%
+(T=248) equation: 0.958x-1.071y-59.853=0, error: 12.00%
+(T=249) equation: 0.957x-1.070y-59.852=0, error: 12.00%
+(T=250) equation: 0.957x-1.069y-59.852=0, error: 12.00%
+(T=251) equation: 0.957x-1.068y-59.851=0, error: 12.00%
+(T=252) equation: 0.956x-1.067y-59.851=0, error: 12.00%
+(T=253) equation: 0.956x-1.067y-59.851=0, error: 12.00%
+(T=254) equation: 0.952x-1.069y-59.850=0, error: 12.00%
+(T=255) equation: 0.948x-1.072y-59.850=0, error: 12.00%
+(T=256) equation: 0.976x-1.070y-59.849=0, error: 15.00%
+(T=257) equation: 0.972x-1.071y-59.849=0, error: 14.00%
+(T=258) equation: 0.968x-1.071y-59.848=0, error: 14.00%
+(T=259) equation: 0.965x-1.071y-59.848=0, error: 13.00%
+(T=260) equation: 0.963x-1.071y-59.847=0, error: 12.00%
+(T=261) equation: 0.961x-1.072y-59.847=0, error: 12.00%
+(T=262) equation: 0.959x-1.072y-59.847=0, error: 12.00%
+(T=263) equation: 0.958x-1.071y-59.846=0, error: 12.00%
+(T=264) equation: 0.958x-1.070y-59.846=0, error: 12.00%
+(T=265) equation: 0.957x-1.069y-59.845=0, error: 12.00%
+(T=266) equation: 0.957x-1.068y-59.845=0, error: 12.00%
+(T=267) equation: 0.956x-1.068y-59.845=0, error: 12.00%
+(T=268) equation: 0.956x-1.067y-59.844=0, error: 12.00%
+(T=269) equation: 0.955x-1.066y-59.844=0, error: 12.00%
+(T=270) equation: 0.952x-1.068y-59.843=0, error: 12.00%
+(T=271) equation: 0.948x-1.071y-59.843=0, error: 12.00%
+(T=272) equation: 0.976x-1.069y-59.842=0, error: 15.00%
+(T=273) equation: 0.972x-1.070y-59.842=0, error: 14.00%
+(T=274) equation: 0.968x-1.070y-59.841=0, error: 14.00%
+(T=275) equation: 0.965x-1.070y-59.841=0, error: 14.00%
+(T=276) equation: 0.963x-1.071y-59.841=0, error: 12.00%
+(T=277) equation: 0.961x-1.071y-59.840=0, error: 12.00%
+(T=278) equation: 0.959x-1.071y-59.840=0, error: 12.00%
+(T=279) equation: 0.957x-1.071y-59.839=0, error: 12.00%
+(T=280) equation: 0.956x-1.070y-59.839=0, error: 12.00%
+(T=281) equation: 0.956x-1.069y-59.839=0, error: 12.00%
+(T=282) equation: 0.952x-1.072y-59.838=0, error: 12.00%
+(T=283) equation: 0.948x-1.074y-59.838=0, error: 12.00%
+(T=284) equation: 0.976x-1.073y-59.837=0, error: 15.00%
+(T=285) equation: 0.972x-1.073y-59.837=0, error: 14.00%
+(T=286) equation: 0.968x-1.074y-59.836=0, error: 14.00%
+(T=287) equation: 0.965x-1.074y-59.836=0, error: 13.00%
+(T=288) equation: 0.963x-1.074y-59.835=0, error: 12.00%
+(T=289) equation: 0.961x-1.074y-59.835=0, error: 12.00%
+(T=290) equation: 0.959x-1.075y-59.835=0, error: 12.00%
+(T=291) equation: 0.958x-1.074y-59.834=0, error: 12.00%
+(T=292) equation: 0.958x-1.073y-59.834=0, error: 12.00%
+(T=293) equation: 0.957x-1.072y-59.833=0, error: 12.00%
+(T=294) equation: 0.957x-1.071y-59.833=0, error: 12.00%
+(T=295) equation: 0.956x-1.070y-59.833=0, error: 12.00%
+(T=296) equation: 0.956x-1.069y-59.832=0, error: 12.00%
+(T=297) equation: 0.956x-1.069y-59.832=0, error: 12.00%
+(T=298) equation: 0.952x-1.071y-59.831=0, error: 12.00%
+(T=299) equation: 0.948x-1.074y-59.831=0, error: 12.00%
+(T=300) equation: 0.976x-1.072y-59.830=0, error: 15.00%
+(T=301) equation: 0.972x-1.073y-59.830=0, error: 14.00%
+(T=302) equation: 0.968x-1.073y-59.829=0, error: 14.00%
+(T=303) equation: 0.965x-1.073y-59.829=0, error: 13.00%
+(T=304) equation: 0.963x-1.073y-59.829=0, error: 12.00%
+(T=305) equation: 0.961x-1.074y-59.828=0, error: 12.00%
+(T=306) equation: 0.959x-1.074y-59.828=0, error: 12.00%
+(T=307) equation: 0.958x-1.073y-59.827=0, error: 12.00%
+(T=308) equation: 0.958x-1.072y-59.827=0, error: 12.00%
+(T=309) equation: 0.957x-1.071y-59.827=0, error: 12.00%
+(T=310) equation: 0.957x-1.070y-59.826=0, error: 12.00%
+(T=311) equation: 0.956x-1.070y-59.826=0, error: 12.00%
+(T=312) equation: 0.956x-1.069y-59.825=0, error: 12.00%
+(T=313) equation: 0.955x-1.068y-59.825=0, error: 12.00%
+(T=314) equation: 0.955x-1.067y-59.825=0, error: 12.00%
+(T=315) equation: 0.951x-1.069y-59.824=0, error: 12.00%
+(T=316) equation: 0.948x-1.072y-59.824=0, error: 12.00%
+(T=317) equation: 0.975x-1.070y-59.823=0, error: 15.00%
+(T=318) equation: 0.971x-1.071y-59.823=0, error: 14.00%
+(T=319) equation: 0.967x-1.071y-59.822=0, error: 14.00%
+(T=320) equation: 0.965x-1.071y-59.822=0, error: 13.00%
+(T=321) equation: 0.963x-1.072y-59.821=0, error: 12.00%
+(T=322) equation: 0.960x-1.072y-59.821=0, error: 12.00%
+(T=323) equation: 0.958x-1.072y-59.821=0, error: 12.00%
+(T=324) equation: 0.958x-1.071y-59.820=0, error: 12.00%
+(T=325) equation: 0.957x-1.070y-59.820=0, error: 12.00%
+(T=326) equation: 0.957x-1.070y-59.819=0, error: 12.00%
+(T=327) equation: 0.956x-1.069y-59.819=0, error: 12.00%
+(T=328) equation: 0.956x-1.068y-59.819=0, error: 12.00%
+(T=329) equation: 0.955x-1.067y-59.818=0, error: 12.00%
+(T=330) equation: 0.955x-1.066y-59.818=0, error: 12.00%
+(T=331) equation: 0.951x-1.069y-59.817=0, error: 12.00%
+(T=332) equation: 0.947x-1.071y-59.817=0, error: 12.00%
+(T=333) equation: 0.975x-1.070y-59.816=0, error: 15.00%
+(T=334) equation: 0.971x-1.070y-59.816=0, error: 14.00%
+(T=335) equation: 0.967x-1.070y-59.815=0, error: 14.00%
+(T=336) equation: 0.965x-1.071y-59.815=0, error: 13.00%
+(T=337) equation: 0.963x-1.071y-59.815=0, error: 12.00%
+(T=338) equation: 0.960x-1.071y-59.814=0, error: 12.00%
+(T=339) equation: 0.958x-1.071y-59.814=0, error: 12.00%
+(T=340) equation: 0.958x-1.070y-59.813=0, error: 12.00%
+(T=341) equation: 0.957x-1.070y-59.813=0, error: 12.00%
+(T=342) equation: 0.957x-1.069y-59.813=0, error: 12.00%
+(T=343) equation: 0.956x-1.068y-59.812=0, error: 12.00%
+(T=344) equation: 0.956x-1.067y-59.812=0, error: 12.00%
+(T=345) equation: 0.955x-1.066y-59.811=0, error: 12.00%
+(T=346) equation: 0.955x-1.065y-59.811=0, error: 12.00%
+(T=347) equation: 0.951x-1.068y-59.811=0, error: 12.00%
+(T=348) equation: 0.947x-1.070y-59.810=0, error: 12.00%
+(T=349) equation: 0.975x-1.069y-59.809=0, error: 15.00%
+(T=350) equation: 0.971x-1.069y-59.809=0, error: 14.00%
+(T=351) equation: 0.967x-1.070y-59.809=0, error: 14.00%
+(T=352) equation: 0.965x-1.070y-59.808=0, error: 13.00%
+(T=353) equation: 0.962x-1.070y-59.808=0, error: 12.00%
+(T=354) equation: 0.960x-1.070y-59.807=0, error: 12.00%
+(T=355) equation: 0.958x-1.070y-59.807=0, error: 12.00%
+(T=356) equation: 0.958x-1.070y-59.807=0, error: 12.00%
+(T=357) equation: 0.957x-1.069y-59.806=0, error: 12.00%
+(T=358) equation: 0.957x-1.068y-59.806=0, error: 12.00%
+(T=359) equation: 0.956x-1.067y-59.805=0, error: 12.00%
+(T=360) equation: 0.956x-1.066y-59.805=0, error: 12.00%
+(T=361) equation: 0.955x-1.065y-59.805=0, error: 12.00%
+(T=362) equation: 0.955x-1.065y-59.804=0, error: 12.00%
+(T=363) equation: 0.951x-1.067y-59.804=0, error: 12.00%
+(T=364) equation: 0.947x-1.070y-59.803=0, error: 12.00%
+(T=365) equation: 0.975x-1.068y-59.803=0, error: 15.00%
+(T=366) equation: 0.971x-1.068y-59.802=0, error: 14.00%
+(T=367) equation: 0.967x-1.069y-59.802=0, error: 14.00%
+(T=368) equation: 0.965x-1.069y-59.801=0, error: 14.00%
+(T=369) equation: 0.962x-1.069y-59.801=0, error: 12.00%
+(T=370) equation: 0.960x-1.069y-59.801=0, error: 12.00%
+(T=371) equation: 0.958x-1.070y-59.800=0, error: 12.00%
+(T=372) equation: 0.958x-1.069y-59.800=0, error: 12.00%
+(T=373) equation: 0.957x-1.068y-59.799=0, error: 12.00%
+(T=374) equation: 0.957x-1.067y-59.799=0, error: 12.00%
+(T=375) equation: 0.956x-1.066y-59.799=0, error: 12.00%
+(T=376) equation: 0.956x-1.065y-59.798=0, error: 12.00%
+(T=377) equation: 0.955x-1.065y-59.798=0, error: 12.00%
+(T=378) equation: 0.955x-1.064y-59.797=0, error: 12.00%
+(T=379) equation: 0.951x-1.066y-59.797=0, error: 12.00%
+(T=380) equation: 0.947x-1.069y-59.797=0, error: 12.00%
+(T=381) equation: 0.975x-1.067y-59.796=0, error: 15.00%
+(T=382) equation: 0.971x-1.068y-59.795=0, error: 14.00%
+(T=383) equation: 0.967x-1.068y-59.795=0, error: 14.00%
+(T=384) equation: 0.965x-1.068y-59.795=0, error: 14.00%
+(T=385) equation: 0.962x-1.068y-59.794=0, error: 12.00%
+(T=386) equation: 0.960x-1.069y-59.794=0, error: 12.00%
+(T=387) equation: 0.958x-1.069y-59.793=0, error: 12.00%
+(T=388) equation: 0.956x-1.069y-59.793=0, error: 12.00%
+(T=389) equation: 0.955x-1.068y-59.793=0, error: 12.00%
+(T=390) equation: 0.955x-1.067y-59.792=0, error: 12.00%
+(T=391) equation: 0.951x-1.070y-59.792=0, error: 12.00%
+(T=392) equation: 0.947x-1.072y-59.791=0, error: 12.00%
+(T=393) equation: 0.975x-1.071y-59.791=0, error: 15.00%
+(T=394) equation: 0.971x-1.071y-59.790=0, error: 14.00%
+(T=395) equation: 0.967x-1.072y-59.790=0, error: 14.00%
+(T=396) equation: 0.965x-1.072y-59.789=0, error: 13.00%
+(T=397) equation: 0.962x-1.072y-59.789=0, error: 12.00%
+(T=398) equation: 0.960x-1.072y-59.789=0, error: 12.00%
+(T=399) equation: 0.958x-1.072y-59.788=0, error: 12.00%
+(T=400) equation: 0.958x-1.072y-59.788=0, error: 12.00%
+(T=401) equation: 0.957x-1.071y-59.787=0, error: 12.00%
+(T=402) equation: 0.957x-1.070y-59.787=0, error: 12.00%
+(T=403) equation: 0.956x-1.069y-59.787=0, error: 12.00%
+(T=404) equation: 0.956x-1.068y-59.786=0, error: 12.00%
+(T=405) equation: 0.955x-1.067y-59.786=0, error: 12.00%
+(T=406) equation: 0.955x-1.067y-59.785=0, error: 12.00%
+(T=407) equation: 0.951x-1.069y-59.785=0, error: 12.00%
+(T=408) equation: 0.947x-1.072y-59.785=0, error: 12.00%
+(T=409) equation: 0.975x-1.070y-59.784=0, error: 15.00%
+(T=410) equation: 0.971x-1.070y-59.783=0, error: 14.00%
+(T=411) equation: 0.967x-1.071y-59.783=0, error: 14.00%
+(T=412) equation: 0.965x-1.071y-59.783=0, error: 13.00%
+(T=413) equation: 0.962x-1.071y-59.782=0, error: 12.00%
+(T=414) equation: 0.960x-1.071y-59.782=0, error: 12.00%
+(T=415) equation: 0.958x-1.072y-59.781=0, error: 12.00%
+(T=416) equation: 0.957x-1.071y-59.781=0, error: 12.00%
+(T=417) equation: 0.957x-1.070y-59.781=0, error: 12.00%
+(T=418) equation: 0.957x-1.069y-59.780=0, error: 12.00%
+(T=419) equation: 0.956x-1.068y-59.780=0, error: 12.00%
+(T=420) equation: 0.956x-1.067y-59.779=0, error: 12.00%
+(T=421) equation: 0.955x-1.067y-59.779=0, error: 12.00%
+(T=422) equation: 0.955x-1.066y-59.779=0, error: 12.00%
+(T=423) equation: 0.951x-1.068y-59.778=0, error: 12.00%
+(T=424) equation: 0.947x-1.071y-59.778=0, error: 12.00%
+(T=425) equation: 0.975x-1.069y-59.777=0, error: 15.00%
+(T=426) equation: 0.971x-1.070y-59.777=0, error: 14.00%
+(T=427) equation: 0.967x-1.070y-59.776=0, error: 14.00%
+(T=428) equation: 0.964x-1.070y-59.776=0, error: 13.00%
+(T=429) equation: 0.962x-1.070y-59.775=0, error: 12.00%
+(T=430) equation: 0.960x-1.071y-59.775=0, error: 12.00%
+(T=431) equation: 0.958x-1.071y-59.775=0, error: 12.00%
+(T=432) equation: 0.957x-1.070y-59.774=0, error: 12.00%
+(T=433) equation: 0.957x-1.069y-59.774=0, error: 12.00%
+(T=434) equation: 0.956x-1.068y-59.773=0, error: 12.00%
+(T=435) equation: 0.956x-1.068y-59.773=0, error: 12.00%
+(T=436) equation: 0.955x-1.067y-59.773=0, error: 12.00%
+(T=437) equation: 0.955x-1.066y-59.772=0, error: 12.00%
+(T=438) equation: 0.955x-1.065y-59.772=0, error: 12.00%
+(T=439) equation: 0.951x-1.067y-59.771=0, error: 12.00%
+(T=440) equation: 0.947x-1.070y-59.771=0, error: 12.00%
+(T=441) equation: 0.975x-1.068y-59.770=0, error: 15.00%
+(T=442) equation: 0.971x-1.069y-59.770=0, error: 14.00%
+(T=443) equation: 0.967x-1.069y-59.769=0, error: 14.00%
+(T=444) equation: 0.964x-1.069y-59.769=0, error: 14.00%
+(T=445) equation: 0.962x-1.070y-59.769=0, error: 12.00%
+(T=446) equation: 0.960x-1.070y-59.768=0, error: 12.00%
+(T=447) equation: 0.958x-1.070y-59.768=0, error: 12.00%
+(T=448) equation: 0.956x-1.070y-59.767=0, error: 12.00%
+(T=449) equation: 0.955x-1.069y-59.767=0, error: 12.00%
+(T=450) equation: 0.955x-1.069y-59.767=0, error: 12.00%
+(T=451) equation: 0.951x-1.071y-59.766=0, error: 12.00%
+(T=452) equation: 0.947x-1.074y-59.766=0, error: 12.00%
+(T=453) equation: 0.975x-1.072y-59.765=0, error: 15.00%
+(T=454) equation: 0.971x-1.072y-59.765=0, error: 14.00%
+(T=455) equation: 0.967x-1.073y-59.764=0, error: 14.00%
+(T=456) equation: 0.965x-1.073y-59.764=0, error: 13.00%
+(T=457) equation: 0.962x-1.073y-59.763=0, error: 12.00%
+(T=458) equation: 0.960x-1.073y-59.763=0, error: 12.00%
+(T=459) equation: 0.958x-1.074y-59.763=0, error: 12.00%
+(T=460) equation: 0.957x-1.073y-59.762=0, error: 12.00%
+(T=461) equation: 0.957x-1.072y-59.762=0, error: 12.00%
+(T=462) equation: 0.956x-1.071y-59.761=0, error: 12.00%
+(T=463) equation: 0.956x-1.070y-59.761=0, error: 12.00%
+(T=464) equation: 0.956x-1.069y-59.761=0, error: 12.00%
+(T=465) equation: 0.955x-1.069y-59.760=0, error: 12.00%
+(T=466) equation: 0.955x-1.068y-59.760=0, error: 12.00%
+(T=467) equation: 0.951x-1.070y-59.759=0, error: 12.00%
+(T=468) equation: 0.947x-1.073y-59.759=0, error: 12.00%
+(T=469) equation: 0.975x-1.071y-59.758=0, error: 15.00%
+(T=470) equation: 0.971x-1.072y-59.758=0, error: 14.00%
+(T=471) equation: 0.967x-1.072y-59.757=0, error: 14.00%
+(T=472) equation: 0.964x-1.072y-59.757=0, error: 13.00%
+(T=473) equation: 0.962x-1.072y-59.757=0, error: 12.00%
+(T=474) equation: 0.960x-1.073y-59.756=0, error: 12.00%
+(T=475) equation: 0.958x-1.073y-59.756=0, error: 12.00%
+(T=476) equation: 0.957x-1.072y-59.755=0, error: 12.00%
+(T=477) equation: 0.957x-1.071y-59.755=0, error: 12.00%
+(T=478) equation: 0.956x-1.070y-59.755=0, error: 12.00%
+(T=479) equation: 0.956x-1.070y-59.754=0, error: 12.00%
+(T=480) equation: 0.955x-1.069y-59.754=0, error: 12.00%
+(T=481) equation: 0.955x-1.068y-59.753=0, error: 12.00%
+(T=482) equation: 0.954x-1.067y-59.753=0, error: 12.00%
+(T=483) equation: 0.951x-1.069y-59.753=0, error: 12.00%
+(T=484) equation: 0.947x-1.072y-59.752=0, error: 12.00%
+(T=485) equation: 0.975x-1.070y-59.751=0, error: 15.00%
+(T=486) equation: 0.971x-1.071y-59.751=0, error: 14.00%
+(T=487) equation: 0.967x-1.071y-59.751=0, error: 14.00%
+(T=488) equation: 0.964x-1.071y-59.750=0, error: 13.00%
+(T=489) equation: 0.962x-1.072y-59.750=0, error: 12.00%
+(T=490) equation: 0.960x-1.072y-59.749=0, error: 12.00%
+(T=491) equation: 0.958x-1.072y-59.749=0, error: 12.00%
+(T=492) equation: 0.957x-1.071y-59.749=0, error: 12.00%
+(T=493) equation: 0.957x-1.070y-59.748=0, error: 12.00%
+(T=494) equation: 0.956x-1.070y-59.748=0, error: 12.00%
+(T=495) equation: 0.956x-1.069y-59.747=0, error: 12.00%
+(T=496) equation: 0.955x-1.068y-59.747=0, error: 12.00%
+(T=497) equation: 0.955x-1.067y-59.747=0, error: 12.00%
+(T=498) equation: 0.954x-1.066y-59.746=0, error: 12.00%
+(T=499) equation: 0.954x-1.065y-59.746=0, error: 12.00%
+(T=500) equation: 0.950x-1.068y-59.745=0, error: 12.00%
+(T=501) equation: 0.946x-1.070y-59.745=0, error: 12.00%
+(T=502) equation: 0.974x-1.069y-59.744=0, error: 15.00%
+(T=503) equation: 0.970x-1.069y-59.744=0, error: 14.00%
+(T=504) equation: 0.966x-1.070y-59.743=0, error: 14.00%
+(T=505) equation: 0.964x-1.070y-59.743=0, error: 13.00%
+(T=506) equation: 0.962x-1.070y-59.743=0, error: 12.00%
+(T=507) equation: 0.959x-1.070y-59.742=0, error: 12.00%
+(T=508) equation: 0.957x-1.070y-59.742=0, error: 12.00%
+(T=509) equation: 0.957x-1.070y-59.741=0, error: 12.00%
+(T=510) equation: 0.956x-1.069y-59.741=0, error: 12.00%
+(T=511) equation: 0.956x-1.068y-59.741=0, error: 12.00%
+(T=512) equation: 0.955x-1.067y-59.740=0, error: 12.00%
+(T=513) equation: 0.955x-1.066y-59.740=0, error: 12.00%
+(T=514) equation: 0.954x-1.065y-59.739=0, error: 12.00%
+(T=515) equation: 0.954x-1.065y-59.739=0, error: 12.00%
+(T=516) equation: 0.950x-1.067y-59.739=0, error: 12.00%
+(T=517) equation: 0.946x-1.070y-59.738=0, error: 12.00%
+(T=518) equation: 0.974x-1.068y-59.737=0, error: 15.00%
+(T=519) equation: 0.970x-1.068y-59.737=0, error: 14.00%
+(T=520) equation: 0.966x-1.069y-59.737=0, error: 14.00%
+(T=521) equation: 0.964x-1.069y-59.736=0, error: 13.00%
+(T=522) equation: 0.962x-1.069y-59.736=0, error: 12.00%
+(T=523) equation: 0.959x-1.069y-59.735=0, error: 12.00%
+(T=524) equation: 0.957x-1.070y-59.735=0, error: 12.00%
+(T=525) equation: 0.957x-1.069y-59.735=0, error: 12.00%
+(T=526) equation: 0.956x-1.068y-59.734=0, error: 12.00%
+(T=527) equation: 0.956x-1.067y-59.734=0, error: 12.00%
+(T=528) equation: 0.955x-1.066y-59.733=0, error: 12.00%
+(T=529) equation: 0.955x-1.065y-59.733=0, error: 12.00%
+(T=530) equation: 0.954x-1.065y-59.733=0, error: 12.00%
+(T=531) equation: 0.954x-1.064y-59.732=0, error: 12.00%
+(T=532) equation: 0.950x-1.066y-59.732=0, error: 12.00%
+(T=533) equation: 0.946x-1.069y-59.731=0, error: 12.00%
+(T=534) equation: 0.974x-1.067y-59.731=0, error: 15.00%
+(T=535) equation: 0.970x-1.068y-59.730=0, error: 14.00%
+(T=536) equation: 0.966x-1.068y-59.730=0, error: 14.00%
+(T=537) equation: 0.964x-1.068y-59.729=0, error: 14.00%
+(T=538) equation: 0.961x-1.068y-59.729=0, error: 12.00%
+(T=539) equation: 0.959x-1.069y-59.729=0, error: 12.00%
+(T=540) equation: 0.957x-1.069y-59.728=0, error: 12.00%
+(T=541) equation: 0.957x-1.068y-59.728=0, error: 12.00%
+(T=542) equation: 0.956x-1.067y-59.727=0, error: 12.00%
+(T=543) equation: 0.956x-1.066y-59.727=0, error: 12.00%
+(T=544) equation: 0.955x-1.065y-59.727=0, error: 12.00%
+(T=545) equation: 0.955x-1.065y-59.726=0, error: 12.00%
+(T=546) equation: 0.954x-1.064y-59.726=0, error: 12.00%
+(T=547) equation: 0.954x-1.063y-59.725=0, error: 12.00%
+(T=548) equation: 0.950x-1.065y-59.725=0, error: 12.00%
+(T=549) equation: 0.946x-1.068y-59.725=0, error: 12.00%
+(T=550) equation: 0.974x-1.066y-59.724=0, error: 15.00%
+(T=551) equation: 0.970x-1.067y-59.723=0, error: 14.00%
+(T=552) equation: 0.966x-1.067y-59.723=0, error: 14.00%
+(T=553) equation: 0.964x-1.067y-59.723=0, error: 14.00%
+(T=554) equation: 0.961x-1.068y-59.722=0, error: 12.00%
+(T=555) equation: 0.959x-1.068y-59.722=0, error: 12.00%
+(T=556) equation: 0.957x-1.068y-59.721=0, error: 12.00%
+(T=557) equation: 0.955x-1.068y-59.721=0, error: 12.00%
+(T=558) equation: 0.954x-1.067y-59.721=0, error: 12.00%
+(T=559) equation: 0.954x-1.067y-59.720=0, error: 12.00%
+(T=560) equation: 0.950x-1.069y-59.720=0, error: 12.00%
+(T=561) equation: 0.946x-1.072y-59.719=0, error: 12.00%
+(T=562) equation: 0.974x-1.070y-59.719=0, error: 15.00%
+(T=563) equation: 0.970x-1.070y-59.718=0, error: 14.00%
+(T=564) equation: 0.966x-1.071y-59.718=0, error: 14.00%
+(T=565) equation: 0.964x-1.071y-59.717=0, error: 13.00%
+(T=566) equation: 0.961x-1.071y-59.717=0, error: 12.00%
+(T=567) equation: 0.959x-1.071y-59.717=0, error: 12.00%
+(T=568) equation: 0.957x-1.072y-59.716=0, error: 12.00%
+(T=569) equation: 0.957x-1.071y-59.716=0, error: 12.00%
+(T=570) equation: 0.956x-1.070y-59.715=0, error: 12.00%
+(T=571) equation: 0.956x-1.069y-59.715=0, error: 12.00%
+(T=572) equation: 0.955x-1.068y-59.715=0, error: 12.00%
+(T=573) equation: 0.955x-1.067y-59.714=0, error: 12.00%
+(T=574) equation: 0.954x-1.067y-59.714=0, error: 12.00%
+(T=575) equation: 0.954x-1.066y-59.713=0, error: 12.00%
+(T=576) equation: 0.950x-1.068y-59.713=0, error: 12.00%
+(T=577) equation: 0.946x-1.071y-59.713=0, error: 12.00%
+(T=578) equation: 0.974x-1.069y-59.712=0, error: 15.00%
+(T=579) equation: 0.970x-1.070y-59.711=0, error: 14.00%
+(T=580) equation: 0.966x-1.070y-59.711=0, error: 14.00%
+(T=581) equation: 0.964x-1.070y-59.711=0, error: 13.00%
+(T=582) equation: 0.961x-1.070y-59.710=0, error: 12.00%
+(T=583) equation: 0.959x-1.071y-59.710=0, error: 12.00%
+(T=584) equation: 0.957x-1.071y-59.709=0, error: 12.00%
+(T=585) equation: 0.957x-1.070y-59.709=0, error: 12.00%
+(T=586) equation: 0.956x-1.069y-59.709=0, error: 12.00%
+(T=587) equation: 0.956x-1.068y-59.708=0, error: 12.00%
+(T=588) equation: 0.955x-1.067y-59.708=0, error: 12.00%
+(T=589) equation: 0.955x-1.067y-59.707=0, error: 12.00%
+(T=590) equation: 0.954x-1.066y-59.707=0, error: 12.00%
+(T=591) equation: 0.954x-1.065y-59.707=0, error: 12.00%
+(T=592) equation: 0.950x-1.067y-59.706=0, error: 12.00%
+(T=593) equation: 0.946x-1.070y-59.706=0, error: 12.00%
+(T=594) equation: 0.974x-1.068y-59.705=0, error: 15.00%
+(T=595) equation: 0.970x-1.069y-59.705=0, error: 14.00%
+(T=596) equation: 0.966x-1.069y-59.704=0, error: 14.00%
+(T=597) equation: 0.964x-1.069y-59.704=0, error: 14.00%
+(T=598) equation: 0.961x-1.070y-59.703=0, error: 12.00%
+(T=599) equation: 0.959x-1.070y-59.703=0, error: 12.00%
+(T=600) equation: 0.957x-1.070y-59.703=0, error: 12.00%
+(T=601) equation: 0.956x-1.069y-59.702=0, error: 12.00%
+(T=602) equation: 0.956x-1.068y-59.702=0, error: 12.00%
+(T=603) equation: 0.955x-1.068y-59.701=0, error: 12.00%
+(T=604) equation: 0.955x-1.067y-59.701=0, error: 12.00%
+(T=605) equation: 0.955x-1.066y-59.701=0, error: 12.00%
+(T=606) equation: 0.954x-1.065y-59.700=0, error: 12.00%
+(T=607) equation: 0.954x-1.064y-59.700=0, error: 12.00%
+(T=608) equation: 0.950x-1.067y-59.699=0, error: 12.00%
+(T=609) equation: 0.946x-1.069y-59.699=0, error: 12.00%
+(T=610) equation: 0.974x-1.068y-59.698=0, error: 15.00%
+(T=611) equation: 0.970x-1.068y-59.698=0, error: 14.00%
+(T=612) equation: 0.966x-1.068y-59.697=0, error: 14.00%
+(T=613) equation: 0.963x-1.069y-59.697=0, error: 14.00%
+(T=614) equation: 0.961x-1.069y-59.697=0, error: 12.00%
+(T=615) equation: 0.959x-1.069y-59.696=0, error: 12.00%
+(T=616) equation: 0.957x-1.069y-59.696=0, error: 12.00%
+(T=617) equation: 0.955x-1.069y-59.695=0, error: 12.00%
+(T=618) equation: 0.954x-1.069y-59.695=0, error: 12.00%
+(T=619) equation: 0.954x-1.068y-59.695=0, error: 12.00%
+(T=620) equation: 0.950x-1.070y-59.694=0, error: 12.00%
+(T=621) equation: 0.946x-1.073y-59.694=0, error: 12.00%
+(T=622) equation: 0.974x-1.071y-59.693=0, error: 15.00%
+(T=623) equation: 0.970x-1.072y-59.693=0, error: 14.00%
+(T=624) equation: 0.966x-1.072y-59.692=0, error: 14.00%
+(T=625) equation: 0.964x-1.072y-59.692=0, error: 13.00%
+(T=626) equation: 0.961x-1.072y-59.691=0, error: 12.00%
+(T=627) equation: 0.959x-1.073y-59.691=0, error: 12.00%
+(T=628) equation: 0.957x-1.073y-59.691=0, error: 12.00%
+(T=629) equation: 0.956x-1.072y-59.690=0, error: 12.00%
+(T=630) equation: 0.956x-1.071y-59.690=0, error: 12.00%
+(T=631) equation: 0.956x-1.070y-59.689=0, error: 12.00%
+(T=632) equation: 0.955x-1.069y-59.689=0, error: 12.00%
+(T=633) equation: 0.955x-1.069y-59.689=0, error: 12.00%
+(T=634) equation: 0.954x-1.068y-59.688=0, error: 12.00%
+(T=635) equation: 0.954x-1.067y-59.688=0, error: 12.00%
+(T=636) equation: 0.950x-1.069y-59.687=0, error: 12.00%
+(T=637) equation: 0.946x-1.072y-59.687=0, error: 12.00%
+(T=638) equation: 0.974x-1.070y-59.686=0, error: 15.00%
+(T=639) equation: 0.970x-1.071y-59.686=0, error: 14.00%
+(T=640) equation: 0.966x-1.071y-59.685=0, error: 14.00%
+(T=641) equation: 0.963x-1.071y-59.685=0, error: 13.00%
+(T=642) equation: 0.961x-1.072y-59.685=0, error: 12.00%
+(T=643) equation: 0.959x-1.072y-59.684=0, error: 12.00%
+(T=644) equation: 0.957x-1.072y-59.684=0, error: 12.00%
+(T=645) equation: 0.956x-1.071y-59.683=0, error: 12.00%
+(T=646) equation: 0.956x-1.070y-59.683=0, error: 12.00%
+(T=647) equation: 0.955x-1.070y-59.683=0, error: 12.00%
+(T=648) equation: 0.955x-1.069y-59.682=0, error: 12.00%
+(T=649) equation: 0.954x-1.068y-59.682=0, error: 12.00%
+(T=650) equation: 0.954x-1.067y-59.681=0, error: 12.00%
+(T=651) equation: 0.954x-1.066y-59.681=0, error: 12.00%
+(T=652) equation: 0.950x-1.069y-59.681=0, error: 12.00%
+(T=653) equation: 0.946x-1.071y-59.680=0, error: 12.00%
+(T=654) equation: 0.974x-1.070y-59.679=0, error: 15.00%
+(T=655) equation: 0.970x-1.070y-59.679=0, error: 14.00%
+(T=656) equation: 0.966x-1.070y-59.679=0, error: 14.00%
+(T=657) equation: 0.963x-1.071y-59.678=0, error: 13.00%
+(T=658) equation: 0.961x-1.071y-59.678=0, error: 12.00%
+(T=659) equation: 0.959x-1.071y-59.677=0, error: 12.00%
+(T=660) equation: 0.957x-1.071y-59.677=0, error: 12.00%
+(T=661) equation: 0.956x-1.070y-59.677=0, error: 12.00%
+(T=662) equation: 0.956x-1.070y-59.676=0, error: 12.00%
+(T=663) equation: 0.955x-1.069y-59.676=0, error: 12.00%
+(T=664) equation: 0.955x-1.068y-59.675=0, error: 12.00%
+(T=665) equation: 0.954x-1.067y-59.675=0, error: 12.00%
+(T=666) equation: 0.954x-1.066y-59.675=0, error: 12.00%
+(T=667) equation: 0.953x-1.065y-59.674=0, error: 12.00%
+(T=668) equation: 0.953x-1.065y-59.674=0, error: 12.00%
+(T=669) equation: 0.949x-1.067y-59.673=0, error: 12.00%
+(T=670) equation: 0.946x-1.069y-59.673=0, error: 12.00%
+(T=671) equation: 0.973x-1.068y-59.672=0, error: 15.00%
+(T=672) equation: 0.969x-1.068y-59.672=0, error: 14.00%
+(T=673) equation: 0.965x-1.069y-59.671=0, error: 14.00%
+(T=674) equation: 0.963x-1.069y-59.671=0, error: 13.00%
+(T=675) equation: 0.961x-1.069y-59.671=0, error: 12.00%
+(T=676) equation: 0.958x-1.069y-59.670=0, error: 12.00%
+(T=677) equation: 0.956x-1.070y-59.670=0, error: 12.00%
+(T=678) equation: 0.956x-1.069y-59.669=0, error: 12.00%
+(T=679) equation: 0.955x-1.068y-59.669=0, error: 12.00%
+(T=680) equation: 0.955x-1.067y-59.669=0, error: 12.00%
+(T=681) equation: 0.954x-1.066y-59.668=0, error: 12.00%
+(T=682) equation: 0.954x-1.065y-59.668=0, error: 12.00%
+(T=683) equation: 0.953x-1.065y-59.667=0, error: 12.00%
+(T=684) equation: 0.953x-1.064y-59.667=0, error: 12.00%
+(T=685) equation: 0.949x-1.066y-59.667=0, error: 12.00%
+(T=686) equation: 0.945x-1.069y-59.666=0, error: 12.00%
+(T=687) equation: 0.973x-1.067y-59.665=0, error: 15.00%
+(T=688) equation: 0.969x-1.068y-59.665=0, error: 14.00%
+(T=689) equation: 0.965x-1.068y-59.665=0, error: 14.00%
+(T=690) equation: 0.963x-1.068y-59.664=0, error: 14.00%
+(T=691) equation: 0.961x-1.068y-59.664=0, error: 12.00%
+(T=692) equation: 0.958x-1.069y-59.663=0, error: 12.00%
+(T=693) equation: 0.956x-1.069y-59.663=0, error: 12.00%
+(T=694) equation: 0.956x-1.068y-59.663=0, error: 12.00%
+(T=695) equation: 0.955x-1.067y-59.662=0, error: 12.00%
+(T=696) equation: 0.955x-1.066y-59.662=0, error: 12.00%
+(T=697) equation: 0.954x-1.065y-59.661=0, error: 12.00%
+(T=698) equation: 0.954x-1.065y-59.661=0, error: 12.00%
+(T=699) equation: 0.953x-1.064y-59.661=0, error: 12.00%
+(T=700) equation: 0.953x-1.063y-59.660=0, error: 12.00%
+(T=701) equation: 0.949x-1.065y-59.660=0, error: 12.00%
+(T=702) equation: 0.945x-1.068y-59.659=0, error: 12.00%
+(T=703) equation: 0.973x-1.066y-59.659=0, error: 15.00%
+(T=704) equation: 0.969x-1.067y-59.658=0, error: 14.00%
+(T=705) equation: 0.965x-1.067y-59.658=0, error: 14.00%
+(T=706) equation: 0.963x-1.067y-59.657=0, error: 14.00%
+(T=707) equation: 0.960x-1.068y-59.657=0, error: 12.00%
+(T=708) equation: 0.958x-1.068y-59.657=0, error: 12.00%
+(T=709) equation: 0.956x-1.068y-59.656=0, error: 12.00%
+(T=710) equation: 0.956x-1.067y-59.656=0, error: 12.00%
+(T=711) equation: 0.955x-1.066y-59.655=0, error: 12.00%
+(T=712) equation: 0.955x-1.065y-59.655=0, error: 12.00%
+(T=713) equation: 0.954x-1.065y-59.655=0, error: 12.00%
+(T=714) equation: 0.954x-1.064y-59.654=0, error: 12.00%
+(T=715) equation: 0.953x-1.063y-59.654=0, error: 12.00%
+(T=716) equation: 0.953x-1.062y-59.653=0, error: 12.00%
+(T=717) equation: 0.949x-1.065y-59.653=0, error: 12.00%
+(T=718) equation: 0.945x-1.067y-59.653=0, error: 12.00%
+(T=719) equation: 0.973x-1.066y-59.652=0, error: 15.00%
+(T=720) equation: 0.969x-1.066y-59.651=0, error: 14.00%
+(T=721) equation: 0.965x-1.066y-59.651=0, error: 14.00%
+(T=722) equation: 0.963x-1.067y-59.651=0, error: 14.00%
+(T=723) equation: 0.960x-1.067y-59.650=0, error: 12.00%
+(T=724) equation: 0.958x-1.067y-59.650=0, error: 12.00%
+(T=725) equation: 0.956x-1.067y-59.649=0, error: 12.00%
+(T=726) equation: 0.954x-1.067y-59.649=0, error: 12.00%
+(T=727) equation: 0.953x-1.067y-59.649=0, error: 12.00%
+(T=728) equation: 0.953x-1.066y-59.648=0, error: 12.00%
+(T=729) equation: 0.949x-1.068y-59.648=0, error: 12.00%
+(T=730) equation: 0.945x-1.071y-59.647=0, error: 12.00%
+(T=731) equation: 0.973x-1.069y-59.647=0, error: 15.00%
+(T=732) equation: 0.969x-1.070y-59.646=0, error: 14.00%
+(T=733) equation: 0.965x-1.070y-59.646=0, error: 14.00%
+(T=734) equation: 0.963x-1.070y-59.645=0, error: 13.00%
+(T=735) equation: 0.961x-1.070y-59.645=0, error: 12.00%
+(T=736) equation: 0.958x-1.071y-59.645=0, error: 12.00%
+(T=737) equation: 0.956x-1.071y-59.644=0, error: 12.00%
+(T=738) equation: 0.956x-1.070y-59.644=0, error: 12.00%
+(T=739) equation: 0.955x-1.069y-59.643=0, error: 12.00%
+(T=740) equation: 0.955x-1.068y-59.643=0, error: 12.00%
+(T=741) equation: 0.954x-1.067y-59.643=0, error: 12.00%
+(T=742) equation: 0.954x-1.067y-59.642=0, error: 12.00%
+(T=743) equation: 0.953x-1.066y-59.642=0, error: 12.00%
+(T=744) equation: 0.953x-1.065y-59.641=0, error: 12.00%
+(T=745) equation: 0.949x-1.067y-59.641=0, error: 12.00%
+(T=746) equation: 0.945x-1.070y-59.641=0, error: 12.00%
+(T=747) equation: 0.973x-1.068y-59.640=0, error: 15.00%
+(T=748) equation: 0.969x-1.069y-59.639=0, error: 14.00%
+(T=749) equation: 0.965x-1.069y-59.639=0, error: 14.00%
+(T=750) equation: 0.963x-1.069y-59.639=0, error: 13.00%
+(T=751) equation: 0.960x-1.070y-59.638=0, error: 12.00%
+(T=752) equation: 0.958x-1.070y-59.638=0, error: 12.00%
+(T=753) equation: 0.956x-1.070y-59.637=0, error: 12.00%
+(T=754) equation: 0.956x-1.069y-59.637=0, error: 12.00%
+(T=755) equation: 0.955x-1.068y-59.637=0, error: 12.00%
+(T=756) equation: 0.955x-1.067y-59.636=0, error: 12.00%
+(T=757) equation: 0.954x-1.067y-59.636=0, error: 12.00%
+(T=758) equation: 0.954x-1.066y-59.635=0, error: 12.00%
+(T=759) equation: 0.953x-1.065y-59.635=0, error: 12.00%
+(T=760) equation: 0.953x-1.064y-59.635=0, error: 12.00%
+(T=761) equation: 0.949x-1.067y-59.634=0, error: 12.00%
+(T=762) equation: 0.945x-1.069y-59.634=0, error: 12.00%
+(T=763) equation: 0.973x-1.068y-59.633=0, error: 15.00%
+(T=764) equation: 0.969x-1.068y-59.633=0, error: 14.00%
+(T=765) equation: 0.965x-1.068y-59.632=0, error: 14.00%
+(T=766) equation: 0.963x-1.069y-59.632=0, error: 14.00%
+(T=767) equation: 0.960x-1.069y-59.631=0, error: 12.00%
+(T=768) equation: 0.958x-1.069y-59.631=0, error: 12.00%
+(T=769) equation: 0.956x-1.069y-59.631=0, error: 12.00%
+(T=770) equation: 0.955x-1.068y-59.630=0, error: 12.00%
+(T=771) equation: 0.955x-1.068y-59.630=0, error: 12.00%
+(T=772) equation: 0.955x-1.067y-59.629=0, error: 12.00%
+(T=773) equation: 0.954x-1.066y-59.629=0, error: 12.00%
+(T=774) equation: 0.954x-1.065y-59.629=0, error: 12.00%
+(T=775) equation: 0.953x-1.064y-59.628=0, error: 12.00%
+(T=776) equation: 0.953x-1.063y-59.628=0, error: 12.00%
+(T=777) equation: 0.949x-1.066y-59.627=0, error: 12.00%
+(T=778) equation: 0.945x-1.068y-59.627=0, error: 12.00%
+(T=779) equation: 0.973x-1.067y-59.626=0, error: 15.00%
+(T=780) equation: 0.969x-1.067y-59.626=0, error: 14.00%
+(T=781) equation: 0.965x-1.068y-59.625=0, error: 14.00%
+(T=782) equation: 0.962x-1.068y-59.625=0, error: 14.00%
+(T=783) equation: 0.960x-1.068y-59.625=0, error: 12.00%
+(T=784) equation: 0.958x-1.068y-59.624=0, error: 12.00%
+(T=785) equation: 0.956x-1.068y-59.624=0, error: 12.00%
+(T=786) equation: 0.954x-1.069y-59.623=0, error: 12.00%
+(T=787) equation: 0.953x-1.068y-59.623=0, error: 12.00%
+(T=788) equation: 0.953x-1.067y-59.623=0, error: 12.00%
+(T=789) equation: 0.949x-1.069y-59.622=0, error: 12.00%
+(T=790) equation: 0.945x-1.072y-59.622=0, error: 12.00%
+(T=791) equation: 0.973x-1.070y-59.621=0, error: 15.00%
+(T=792) equation: 0.969x-1.071y-59.621=0, error: 14.00%
+(T=793) equation: 0.965x-1.071y-59.620=0, error: 14.00%
+(T=794) equation: 0.963x-1.071y-59.620=0, error: 13.00%
+(T=795) equation: 0.960x-1.072y-59.619=0, error: 12.00%
+(T=796) equation: 0.958x-1.072y-59.619=0, error: 12.00%
+(T=797) equation: 0.956x-1.072y-59.619=0, error: 12.00%
+(T=798) equation: 0.956x-1.071y-59.618=0, error: 12.00%
+(T=799) equation: 0.955x-1.070y-59.618=0, error: 12.00%
+(T=800) equation: 0.955x-1.069y-59.617=0, error: 12.00%
+(T=801) equation: 0.954x-1.069y-59.617=0, error: 12.00%
+(T=802) equation: 0.954x-1.068y-59.617=0, error: 12.00%
+(T=803) equation: 0.953x-1.067y-59.616=0, error: 12.00%
+(T=804) equation: 0.953x-1.066y-59.616=0, error: 12.00%
+(T=805) equation: 0.949x-1.069y-59.615=0, error: 12.00%
+(T=806) equation: 0.945x-1.071y-59.615=0, error: 12.00%
+(T=807) equation: 0.973x-1.070y-59.614=0, error: 15.00%
+(T=808) equation: 0.969x-1.070y-59.614=0, error: 14.00%
+(T=809) equation: 0.965x-1.070y-59.613=0, error: 14.00%
+(T=810) equation: 0.963x-1.071y-59.613=0, error: 13.00%
+(T=811) equation: 0.960x-1.071y-59.613=0, error: 12.00%
+(T=812) equation: 0.958x-1.071y-59.612=0, error: 12.00%
+(T=813) equation: 0.956x-1.071y-59.612=0, error: 12.00%
+(T=814) equation: 0.955x-1.070y-59.611=0, error: 12.00%
+(T=815) equation: 0.955x-1.070y-59.611=0, error: 12.00%
+(T=816) equation: 0.954x-1.069y-59.611=0, error: 12.00%
+(T=817) equation: 0.954x-1.068y-59.610=0, error: 12.00%
+(T=818) equation: 0.954x-1.067y-59.610=0, error: 12.00%
+(T=819) equation: 0.953x-1.066y-59.609=0, error: 12.00%
+(T=820) equation: 0.953x-1.065y-59.609=0, error: 12.00%
+(T=821) equation: 0.949x-1.068y-59.609=0, error: 12.00%
+(T=822) equation: 0.945x-1.070y-59.608=0, error: 12.00%
+(T=823) equation: 0.973x-1.069y-59.607=0, error: 15.00%
+(T=824) equation: 0.969x-1.069y-59.607=0, error: 14.00%
+(T=825) equation: 0.965x-1.070y-59.607=0, error: 14.00%
+(T=826) equation: 0.962x-1.070y-59.606=0, error: 14.00%
+(T=827) equation: 0.960x-1.070y-59.606=0, error: 12.00%
+(T=828) equation: 0.958x-1.070y-59.605=0, error: 12.00%
+(T=829) equation: 0.956x-1.070y-59.605=0, error: 12.00%
+(T=830) equation: 0.955x-1.070y-59.605=0, error: 12.00%
+(T=831) equation: 0.955x-1.069y-59.604=0, error: 12.00%
+(T=832) equation: 0.954x-1.068y-59.604=0, error: 12.00%
+(T=833) equation: 0.954x-1.067y-59.603=0, error: 12.00%
+(T=834) equation: 0.953x-1.066y-59.603=0, error: 12.00%
+(T=835) equation: 0.953x-1.065y-59.603=0, error: 12.00%
+(T=836) equation: 0.952x-1.065y-59.602=0, error: 12.00%
+(T=837) equation: 0.952x-1.064y-59.602=0, error: 12.00%
+(T=838) equation: 0.948x-1.066y-59.601=0, error: 12.00%
+(T=839) equation: 0.945x-1.069y-59.601=0, error: 12.00%
+(T=840) equation: 0.972x-1.067y-59.600=0, error: 15.00%
+(T=841) equation: 0.968x-1.068y-59.600=0, error: 14.00%
+(T=842) equation: 0.964x-1.068y-59.599=0, error: 14.00%
+(T=843) equation: 0.962x-1.068y-59.599=0, error: 13.00%
+(T=844) equation: 0.960x-1.068y-59.599=0, error: 12.00%
+(T=845) equation: 0.957x-1.069y-59.598=0, error: 12.00%
+(T=846) equation: 0.955x-1.069y-59.598=0, error: 12.00%
+(T=847) equation: 0.955x-1.068y-59.597=0, error: 12.00%
+(T=848) equation: 0.954x-1.067y-59.597=0, error: 12.00%
+(T=849) equation: 0.954x-1.066y-59.597=0, error: 12.00%
+(T=850) equation: 0.953x-1.065y-59.596=0, error: 12.00%
+(T=851) equation: 0.953x-1.065y-59.596=0, error: 12.00%
+(T=852) equation: 0.952x-1.064y-59.595=0, error: 12.00%
+(T=853) equation: 0.952x-1.063y-59.595=0, error: 12.00%
+(T=854) equation: 0.948x-1.065y-59.595=0, error: 12.00%
+(T=855) equation: 0.944x-1.068y-59.594=0, error: 12.00%
+(T=856) equation: 0.972x-1.066y-59.593=0, error: 15.00%
+(T=857) equation: 0.968x-1.067y-59.593=0, error: 14.00%
+(T=858) equation: 0.964x-1.067y-59.593=0, error: 14.00%
+(T=859) equation: 0.962x-1.067y-59.592=0, error: 14.00%
+(T=860) equation: 0.960x-1.068y-59.592=0, error: 12.00%
+(T=861) equation: 0.957x-1.068y-59.591=0, error: 12.00%
+(T=862) equation: 0.955x-1.068y-59.591=0, error: 12.00%
+(T=863) equation: 0.955x-1.067y-59.591=0, error: 12.00%
+(T=864) equation: 0.954x-1.066y-59.590=0, error: 12.00%
+(T=865) equation: 0.954x-1.065y-59.590=0, error: 12.00%
+(T=866) equation: 0.953x-1.065y-59.589=0, error: 12.00%
+(T=867) equation: 0.953x-1.064y-59.589=0, error: 12.00%
+(T=868) equation: 0.952x-1.063y-59.589=0, error: 12.00%
+(T=869) equation: 0.952x-1.062y-59.588=0, error: 12.00%
+(T=870) equation: 0.948x-1.065y-59.588=0, error: 12.00%
+(T=871) equation: 0.944x-1.067y-59.587=0, error: 12.00%
+(T=872) equation: 0.972x-1.066y-59.587=0, error: 15.00%
+(T=873) equation: 0.968x-1.066y-59.586=0, error: 14.00%
+(T=874) equation: 0.964x-1.066y-59.586=0, error: 14.00%
+(T=875) equation: 0.962x-1.067y-59.585=0, error: 14.00%
+(T=876) equation: 0.960x-1.067y-59.585=0, error: 12.00%
+(T=877) equation: 0.957x-1.067y-59.585=0, error: 12.00%
+(T=878) equation: 0.955x-1.067y-59.584=0, error: 12.00%
+(T=879) equation: 0.955x-1.066y-59.584=0, error: 12.00%
+(T=880) equation: 0.954x-1.065y-59.583=0, error: 12.00%
+(T=881) equation: 0.954x-1.065y-59.583=0, error: 12.00%
+(T=882) equation: 0.953x-1.064y-59.583=0, error: 12.00%
+(T=883) equation: 0.953x-1.063y-59.582=0, error: 12.00%
+(T=884) equation: 0.952x-1.062y-59.582=0, error: 12.00%
+(T=885) equation: 0.952x-1.061y-59.581=0, error: 12.00%
+(T=886) equation: 0.948x-1.064y-59.581=0, error: 12.00%
+(T=887) equation: 0.944x-1.066y-59.581=0, error: 12.00%
+(T=888) equation: 0.972x-1.065y-59.580=0, error: 15.00%
+(T=889) equation: 0.968x-1.065y-59.579=0, error: 14.00%
+(T=890) equation: 0.964x-1.066y-59.579=0, error: 14.00%
+(T=891) equation: 0.962x-1.066y-59.579=0, error: 14.00%
+(T=892) equation: 0.959x-1.066y-59.578=0, error: 12.00%
+(T=893) equation: 0.957x-1.066y-59.578=0, error: 12.00%
+(T=894) equation: 0.955x-1.066y-59.577=0, error: 12.00%
+(T=895) equation: 0.953x-1.067y-59.577=0, error: 12.00%
+(T=896) equation: 0.952x-1.066y-59.577=0, error: 12.00%
+(T=897) equation: 0.952x-1.065y-59.576=0, error: 12.00%
+(T=898) equation: 0.948x-1.067y-59.576=0, error: 12.00%
+(T=899) equation: 0.944x-1.070y-59.575=0, error: 12.00%
+(T=900) equation: 0.972x-1.068y-59.575=0, error: 15.00%
+(T=901) equation: 0.968x-1.069y-59.574=0, error: 14.00%
+(T=902) equation: 0.964x-1.069y-59.574=0, error: 14.00%
+(T=903) equation: 0.962x-1.069y-59.573=0, error: 13.00%
+(T=904) equation: 0.960x-1.070y-59.573=0, error: 12.00%
+(T=905) equation: 0.957x-1.070y-59.573=0, error: 12.00%
+(T=906) equation: 0.955x-1.070y-59.572=0, error: 12.00%
+(T=907) equation: 0.955x-1.069y-59.572=0, error: 12.00%
+(T=908) equation: 0.954x-1.068y-59.571=0, error: 12.00%
+(T=909) equation: 0.954x-1.067y-59.571=0, error: 12.00%
+(T=910) equation: 0.953x-1.067y-59.571=0, error: 12.00%
+(T=911) equation: 0.953x-1.066y-59.570=0, error: 12.00%
+(T=912) equation: 0.952x-1.065y-59.570=0, error: 12.00%
+(T=913) equation: 0.952x-1.064y-59.569=0, error: 12.00%
+(T=914) equation: 0.948x-1.067y-59.569=0, error: 12.00%
+(T=915) equation: 0.944x-1.069y-59.569=0, error: 12.00%
+(T=916) equation: 0.972x-1.068y-59.568=0, error: 15.00%
+(T=917) equation: 0.968x-1.068y-59.567=0, error: 14.00%
+(T=918) equation: 0.964x-1.068y-59.567=0, error: 14.00%
+(T=919) equation: 0.962x-1.069y-59.567=0, error: 14.00%
+(T=920) equation: 0.959x-1.069y-59.566=0, error: 12.00%
+(T=921) equation: 0.957x-1.069y-59.566=0, error: 12.00%
+(T=922) equation: 0.955x-1.069y-59.565=0, error: 12.00%
+(T=923) equation: 0.955x-1.068y-59.565=0, error: 12.00%
+(T=924) equation: 0.954x-1.067y-59.565=0, error: 12.00%
+(T=925) equation: 0.954x-1.067y-59.564=0, error: 12.00%
+(T=926) equation: 0.953x-1.066y-59.564=0, error: 12.00%
+(T=927) equation: 0.953x-1.065y-59.563=0, error: 12.00%
+(T=928) equation: 0.952x-1.064y-59.563=0, error: 12.00%
+(T=929) equation: 0.952x-1.063y-59.563=0, error: 12.00%
+(T=930) equation: 0.948x-1.066y-59.562=0, error: 12.00%
+(T=931) equation: 0.944x-1.068y-59.562=0, error: 12.00%
+(T=932) equation: 0.972x-1.067y-59.561=0, error: 15.00%
+(T=933) equation: 0.968x-1.067y-59.561=0, error: 14.00%
+(T=934) equation: 0.964x-1.068y-59.560=0, error: 14.00%
+(T=935) equation: 0.962x-1.068y-59.560=0, error: 14.00%
+(T=936) equation: 0.959x-1.068y-59.559=0, error: 12.00%
+(T=937) equation: 0.957x-1.068y-59.559=0, error: 12.00%
+(T=938) equation: 0.955x-1.068y-59.559=0, error: 12.00%
+(T=939) equation: 0.955x-1.068y-59.558=0, error: 12.00%
+(T=940) equation: 0.954x-1.067y-59.558=0, error: 12.00%
+(T=941) equation: 0.954x-1.066y-59.557=0, error: 12.00%
+(T=942) equation: 0.953x-1.065y-59.557=0, error: 12.00%
+(T=943) equation: 0.953x-1.064y-59.557=0, error: 12.00%
+(T=944) equation: 0.952x-1.063y-59.556=0, error: 12.00%
+(T=945) equation: 0.952x-1.062y-59.556=0, error: 12.00%
+(T=946) equation: 0.948x-1.065y-59.555=0, error: 12.00%
+(T=947) equation: 0.944x-1.067y-59.555=0, error: 12.00%
+(T=948) equation: 0.972x-1.066y-59.554=0, error: 15.00%
+(T=949) equation: 0.968x-1.066y-59.554=0, error: 14.00%
+(T=950) equation: 0.964x-1.067y-59.553=0, error: 14.00%
+(T=951) equation: 0.962x-1.067y-59.553=0, error: 14.00%
+(T=952) equation: 0.959x-1.067y-59.553=0, error: 12.00%
+(T=953) equation: 0.957x-1.067y-59.552=0, error: 12.00%
+(T=954) equation: 0.955x-1.068y-59.552=0, error: 12.00%
+(T=955) equation: 0.953x-1.068y-59.551=0, error: 12.00%
+(T=956) equation: 0.952x-1.067y-59.551=0, error: 12.00%
+(T=957) equation: 0.952x-1.066y-59.551=0, error: 12.00%
+(T=958) equation: 0.948x-1.069y-59.550=0, error: 12.00%
+(T=959) equation: 0.944x-1.071y-59.550=0, error: 12.00%
+(T=960) equation: 0.972x-1.070y-59.549=0, error: 15.00%
+(T=961) equation: 0.968x-1.070y-59.549=0, error: 14.00%
+(T=962) equation: 0.964x-1.070y-59.548=0, error: 14.00%
+(T=963) equation: 0.962x-1.071y-59.548=0, error: 13.00%
+(T=964) equation: 0.959x-1.071y-59.547=0, error: 12.00%
+(T=965) equation: 0.957x-1.071y-59.547=0, error: 12.00%
+(T=966) equation: 0.955x-1.071y-59.547=0, error: 12.00%
+(T=967) equation: 0.955x-1.070y-59.546=0, error: 12.00%
+(T=968) equation: 0.954x-1.069y-59.546=0, error: 12.00%
+(T=969) equation: 0.954x-1.069y-59.545=0, error: 12.00%
+(T=970) equation: 0.953x-1.068y-59.545=0, error: 12.00%
+(T=971) equation: 0.953x-1.067y-59.545=0, error: 12.00%
+(T=972) equation: 0.952x-1.066y-59.544=0, error: 12.00%
+(T=973) equation: 0.952x-1.065y-59.544=0, error: 12.00%
+(T=974) equation: 0.948x-1.068y-59.543=0, error: 12.00%
+(T=975) equation: 0.944x-1.070y-59.543=0, error: 12.00%
+(T=976) equation: 0.972x-1.069y-59.542=0, error: 15.00%
+(T=977) equation: 0.968x-1.069y-59.542=0, error: 14.00%
+(T=978) equation: 0.964x-1.070y-59.541=0, error: 14.00%
+(T=979) equation: 0.962x-1.070y-59.541=0, error: 13.00%
+(T=980) equation: 0.959x-1.070y-59.541=0, error: 12.00%
+(T=981) equation: 0.957x-1.070y-59.540=0, error: 12.00%
+(T=982) equation: 0.955x-1.070y-59.540=0, error: 12.00%
+(T=983) equation: 0.954x-1.070y-59.539=0, error: 12.00%
+(T=984) equation: 0.954x-1.069y-59.539=0, error: 12.00%
+(T=985) equation: 0.954x-1.068y-59.539=0, error: 12.00%
+(T=986) equation: 0.953x-1.067y-59.538=0, error: 12.00%
+(T=987) equation: 0.953x-1.066y-59.538=0, error: 12.00%
+(T=988) equation: 0.952x-1.065y-59.537=0, error: 12.00%
+(T=989) equation: 0.952x-1.064y-59.537=0, error: 12.00%
+(T=990) equation: 0.948x-1.067y-59.537=0, error: 12.00%
+(T=991) equation: 0.944x-1.069y-59.536=0, error: 12.00%
+(T=992) equation: 0.972x-1.068y-59.535=0, error: 15.00%
+(T=993) equation: 0.968x-1.068y-59.535=0, error: 14.00%
+(T=994) equation: 0.964x-1.069y-59.535=0, error: 14.00%
+(T=995) equation: 0.961x-1.069y-59.534=0, error: 14.00%
+(T=996) equation: 0.959x-1.069y-59.534=0, error: 12.00%
+(T=997) equation: 0.957x-1.069y-59.533=0, error: 12.00%
+(T=998) equation: 0.955x-1.070y-59.533=0, error: 12.00%
+(T=999) equation: 0.954x-1.069y-59.533=0, error: 12.00%
+(T=1000) equation: 0.954x-1.068y-59.532=0, error: 12.00%
+(T=1001) equation: 0.953x-1.067y-59.532=0, error: 12.00%
+(T=1002) equation: 0.953x-1.066y-59.531=0, error: 12.00%
+(best(T=2)) equation: 0.953x-1.015y-59.959=0, error: 12.00%

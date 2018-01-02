@@ -1,0 +1,109 @@
+initial equation: 4.393x-0.934y-100.890=0
+learning rate: 0.0003
+(T=  1) equation: 3.348x-1.167y-100.905=0, error: 50.00%
+(T=  2) equation: 2.303x-1.399y-100.920=0, error: 47.00%
+(T=  3) equation: 1.704x-1.519y-100.928=0, error: 20.00%
+(T=  4) equation: 1.556x-1.542y-100.930=0, error: 12.00%
+(T=  5) equation: 1.528x-1.545y-100.930=0, error: 11.00%
+(T=  6) equation: 1.523x-1.546y-100.929=0, error: 10.00%
+(T=  7) equation: 1.519x-1.547y-100.929=0, error: 10.00%
+(T=  8) equation: 1.514x-1.548y-100.929=0, error: 10.00%
+(T=  9) equation: 1.534x-1.546y-100.928=0, error: 12.00%
+(T= 10) equation: 1.529x-1.547y-100.928=0, error: 11.00%
+(T= 11) equation: 1.524x-1.548y-100.928=0, error: 11.00%
+(T= 12) equation: 1.519x-1.549y-100.927=0, error: 10.00%
+(T= 13) equation: 1.515x-1.550y-100.927=0, error: 10.00%
+(T= 14) equation: 1.535x-1.548y-100.926=0, error: 12.00%
+(T= 15) equation: 1.530x-1.549y-100.926=0, error: 11.00%
+(T= 16) equation: 1.525x-1.550y-100.926=0, error: 11.00%
+(T= 17) equation: 1.520x-1.551y-100.925=0, error: 10.00%
+(T= 18) equation: 1.515x-1.552y-100.925=0, error: 10.00%
+(T= 19) equation: 1.511x-1.554y-100.925=0, error: 10.00%
+(T= 20) equation: 1.531x-1.551y-100.924=0, error: 11.00%
+(T= 21) equation: 1.526x-1.552y-100.924=0, error: 11.00%
+(T= 22) equation: 1.521x-1.554y-100.924=0, error: 10.00%
+(T= 23) equation: 1.516x-1.555y-100.923=0, error: 10.00%
+(T= 24) equation: 1.511x-1.556y-100.923=0, error: 10.00%
+(T= 25) equation: 1.532x-1.554y-100.922=0, error: 11.00%
+(T= 26) equation: 1.527x-1.555y-100.922=0, error: 11.00%
+(T= 27) equation: 1.522x-1.556y-100.922=0, error: 10.00%
+(T= 28) equation: 1.517x-1.557y-100.922=0, error: 10.00%
+(T= 29) equation: 1.512x-1.558y-100.921=0, error: 10.00%
+(T= 30) equation: 1.532x-1.556y-100.921=0, error: 11.00%
+(T= 31) equation: 1.528x-1.557y-100.920=0, error: 11.00%
+(T= 32) equation: 1.523x-1.558y-100.920=0, error: 10.00%
+(T= 33) equation: 1.518x-1.559y-100.920=0, error: 10.00%
+(T= 34) equation: 1.513x-1.560y-100.919=0, error: 10.00%
+(T= 35) equation: 1.533x-1.558y-100.919=0, error: 11.00%
+(T= 36) equation: 1.528x-1.559y-100.919=0, error: 11.00%
+(T= 37) equation: 1.524x-1.560y-100.918=0, error: 10.00%
+(T= 38) equation: 1.519x-1.561y-100.918=0, error: 10.00%
+(T= 39) equation: 1.514x-1.562y-100.918=0, error: 10.00%
+(T= 40) equation: 1.534x-1.560y-100.917=0, error: 11.00%
+(T= 41) equation: 1.529x-1.561y-100.917=0, error: 11.00%
+(T= 42) equation: 1.524x-1.562y-100.916=0, error: 11.00%
+(T= 43) equation: 1.520x-1.563y-100.916=0, error: 10.00%
+(T= 44) equation: 1.515x-1.564y-100.916=0, error: 10.00%
+(T= 45) equation: 1.535x-1.562y-100.915=0, error: 11.00%
+(T= 46) equation: 1.530x-1.563y-100.915=0, error: 11.00%
+(T= 47) equation: 1.525x-1.564y-100.915=0, error: 11.00%
+(T= 48) equation: 1.520x-1.565y-100.914=0, error: 10.00%
+(T= 49) equation: 1.516x-1.566y-100.914=0, error: 10.00%
+(T= 50) equation: 1.536x-1.564y-100.913=0, error: 11.00%
+(T= 51) equation: 1.531x-1.565y-100.913=0, error: 11.00%
+(T= 52) equation: 1.526x-1.566y-100.913=0, error: 11.00%
+(T= 53) equation: 1.521x-1.567y-100.913=0, error: 10.00%
+(T= 54) equation: 1.516x-1.568y-100.912=0, error: 10.00%
+(T= 55) equation: 1.537x-1.566y-100.912=0, error: 12.00%
+(T= 56) equation: 1.532x-1.567y-100.911=0, error: 11.00%
+(T= 57) equation: 1.527x-1.568y-100.911=0, error: 11.00%
+(T= 58) equation: 1.522x-1.570y-100.911=0, error: 10.00%
+(T= 59) equation: 1.517x-1.571y-100.910=0, error: 10.00%
+(T= 60) equation: 1.512x-1.572y-100.910=0, error: 10.00%
+(T= 61) equation: 1.533x-1.570y-100.910=0, error: 11.00%
+(T= 62) equation: 1.528x-1.571y-100.909=0, error: 11.00%
+(T= 63) equation: 1.523x-1.572y-100.909=0, error: 10.00%
+(T= 64) equation: 1.518x-1.573y-100.909=0, error: 10.00%
+(T= 65) equation: 1.513x-1.574y-100.908=0, error: 10.00%
+(T= 66) equation: 1.533x-1.572y-100.908=0, error: 11.00%
+(T= 67) equation: 1.529x-1.573y-100.907=0, error: 11.00%
+(T= 68) equation: 1.524x-1.574y-100.907=0, error: 10.00%
+(T= 69) equation: 1.519x-1.575y-100.907=0, error: 10.00%
+(T= 70) equation: 1.514x-1.576y-100.907=0, error: 10.00%
+(T= 71) equation: 1.534x-1.574y-100.906=0, error: 11.00%
+(T= 72) equation: 1.529x-1.575y-100.906=0, error: 11.00%
+(T= 73) equation: 1.525x-1.576y-100.905=0, error: 10.00%
+(T= 74) equation: 1.520x-1.577y-100.905=0, error: 10.00%
+(T= 75) equation: 1.515x-1.578y-100.905=0, error: 10.00%
+(T= 76) equation: 1.535x-1.576y-100.904=0, error: 11.00%
+(T= 77) equation: 1.530x-1.577y-100.904=0, error: 11.00%
+(T= 78) equation: 1.525x-1.578y-100.904=0, error: 11.00%
+(T= 79) equation: 1.521x-1.579y-100.903=0, error: 10.00%
+(T= 80) equation: 1.516x-1.580y-100.903=0, error: 10.00%
+(T= 81) equation: 1.536x-1.578y-100.902=0, error: 11.00%
+(T= 82) equation: 1.531x-1.579y-100.902=0, error: 11.00%
+(T= 83) equation: 1.526x-1.580y-100.902=0, error: 11.00%
+(T= 84) equation: 1.521x-1.581y-100.901=0, error: 10.00%
+(T= 85) equation: 1.517x-1.582y-100.901=0, error: 10.00%
+(T= 86) equation: 1.537x-1.580y-100.901=0, error: 11.00%
+(T= 87) equation: 1.532x-1.581y-100.900=0, error: 11.00%
+(T= 88) equation: 1.527x-1.582y-100.900=0, error: 11.00%
+(T= 89) equation: 1.522x-1.583y-100.900=0, error: 10.00%
+(T= 90) equation: 1.518x-1.584y-100.899=0, error: 10.00%
+(T= 91) equation: 1.538x-1.582y-100.899=0, error: 11.00%
+(T= 92) equation: 1.533x-1.583y-100.898=0, error: 11.00%
+(T= 93) equation: 1.528x-1.584y-100.898=0, error: 11.00%
+(T= 94) equation: 1.523x-1.585y-100.898=0, error: 10.00%
+(T= 95) equation: 1.518x-1.587y-100.898=0, error: 10.00%
+(T= 96) equation: 1.539x-1.584y-100.897=0, error: 11.00%
+(T= 97) equation: 1.534x-1.585y-100.897=0, error: 11.00%
+(T= 98) equation: 1.529x-1.587y-100.896=0, error: 11.00%
+(T= 99) equation: 1.524x-1.588y-100.896=0, error: 10.00%
+(T=100) equation: 1.519x-1.589y-100.896=0, error: 10.00%
+(T=101) equation: 1.539x-1.587y-100.895=0, error: 11.00%
+(T=102) equation: 1.535x-1.588y-100.895=0, error: 11.00%
+(T=103) equation: 1.530x-1.589y-100.895=0, error: 11.00%
+(T=104) equation: 1.525x-1.590y-100.894=0, error: 10.00%
+(T=105) equation: 1.520x-1.591y-100.894=0, error: 10.00%
+(T=106) equation: 1.515x-1.592y-100.894=0, error: 9.00%
+(best(T=106)) equation: 1.515x-1.592y-100.894=0, error: 9.00%

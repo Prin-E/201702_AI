@@ -1,0 +1,15 @@
+loading train datas...
+building keras model (CNN)...
+epoch 001 --- loss=0.1099, acc=51.16%
+epoch 002 --- loss=0.0520, acc=78.71%
+epoch 003 --- loss=0.0319, acc=87.52%
+epoch 004 --- loss=0.0199, acc=92.42%
+epoch 005 --- loss=0.0151, acc=94.37%
+epoch 006 --- loss=0.0119, acc=95.52%
+epoch 007 --- loss=0.0077, acc=97.28%
+epoch 008 --- loss=0.0062, acc=97.80%
+epoch 009 --- loss=0.0048, acc=98.39%
+epoch 010 --- loss=0.0042, acc=98.60%
+epoch 011 --- loss=0.0036, acc=98.84%
+epoch 012 --- loss=0.0032, acc=99.00%
+->best_param.h5
