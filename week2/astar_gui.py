@@ -5,14 +5,14 @@
 # [run] : 1 step씩 이동, 길찾기 완료후 경로 출력
 # [init] : 초기 상태로 되돌리기
 
-import Tkinter as Tk
+import tkinter as Tk
 
 map = []
-map.append(range(1, 6))
-map.append(range(6, 11))
-map.append(range(11, 16))
-map.append(range(16, 21))
-map.append(range(21, 26))
+map.append(list(range(1, 6)))
+map.append(list(range(6, 11)))
+map.append(list(range(11, 16)))
+map.append(list(range(16, 21)))
+map.append(list(range(21, 26)))
 
 # 막힌 곳은 0으로 표시
 map[0][3] = 0
@@ -80,11 +80,11 @@ class App:
         
         # 이전 경로를 저장하기 위한 map
         self.prev_node = []
-        self.prev_node.append(range(1, 6))
-        self.prev_node.append(range(6, 11))
-        self.prev_node.append(range(11, 16))
-        self.prev_node.append(range(16, 21))
-        self.prev_node.append(range(21, 26))
+        self.prev_node.append(list(range(1, 6)))
+        self.prev_node.append(list(range(6, 11)))
+        self.prev_node.append(list(range(11, 16)))
+        self.prev_node.append(list(range(16, 21)))
+        self.prev_node.append(list(range(21, 26)))
         
         # GUI map 사각형 색상 초기화
         for row in range(0, len(self.gui_map_rect)):
@@ -116,17 +116,17 @@ class App:
         
         # GUI 표시용 사각형, 텍스트 map
         self.gui_map_rect = []
-        self.gui_map_rect.append(range(1, 6))
-        self.gui_map_rect.append(range(6, 11))
-        self.gui_map_rect.append(range(11, 16))
-        self.gui_map_rect.append(range(16, 21))
-        self.gui_map_rect.append(range(21, 26))
+        self.gui_map_rect.append(list(range(1, 6)))
+        self.gui_map_rect.append(list(range(6, 11)))
+        self.gui_map_rect.append(list(range(11, 16)))
+        self.gui_map_rect.append(list(range(16, 21)))
+        self.gui_map_rect.append(list(range(21, 26)))
         self.gui_map_text = []
-        self.gui_map_text.append(range(1, 6))
-        self.gui_map_text.append(range(6, 11))
-        self.gui_map_text.append(range(11, 16))
-        self.gui_map_text.append(range(16, 21))
-        self.gui_map_text.append(range(21, 26))
+        self.gui_map_text.append(list(range(1, 6)))
+        self.gui_map_text.append(list(range(6, 11)))
+        self.gui_map_text.append(list(range(11, 16)))
+        self.gui_map_text.append(list(range(16, 21)))
+        self.gui_map_text.append(list(range(21, 26)))
         
         # 맵 그리기
         for row in range(len(map)):
@@ -217,7 +217,7 @@ class App:
             self.toVisit.sort()
             
             nodeName = getNodeName(current_location)
-            print nodeName, self.toVisit, self.alreadyVisited
+            print(nodeName, self.toVisit, self.alreadyVisited)
             
             # 목표 지점에 도달할 경우 탐색 중지
             if self.end == current_location:

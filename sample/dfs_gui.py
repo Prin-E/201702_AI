@@ -1,11 +1,11 @@
-﻿from Tkinter import *
+﻿from tkinter import *
 
 map = []
-map.append(range(1, 6))
-map.append(range(6, 11))
-map.append(range(11, 16))
-map.append(range(16, 21))
-map.append(range(21, 26))
+map.append(list(range(1, 6)))
+map.append(list(range(6, 11)))
+map.append(list(range(11, 16)))
+map.append(list(range(16, 21)))
+map.append(list(range(21, 26)))
 
 # 막힌 곳은 0으로 표시
 map[0][3] = 0
@@ -115,7 +115,7 @@ class App:
             # 이미 방문한 노드에 현재 노드 추가
             self.alreadyVisited.append(current)
             
-            print nodeName, self.toVisit, self.alreadyVisited
+            print(nodeName, self.toVisit, self.alreadyVisited)
 
         
         
